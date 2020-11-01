@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Lumineers, Ben Rector, Ray LaMontagne and more
+> With John Mayer, LÉON, Lady A, Rhys Lewis and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

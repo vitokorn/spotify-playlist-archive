@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Michael Jackson, Lil Wayne, SZA and more
+> With Bruno Mars, Justin Bieber, DJ Snake, DNCE and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
