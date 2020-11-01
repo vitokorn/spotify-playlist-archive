@@ -416,7 +416,7 @@ class Formatter:
 class URL:
 
     BASE = (
-        "https://github.com/mackorone/spotify-playlist-archive/"
+        "https://github.com/vitokorn/spotify-playlist-archive/"
         "blob/master/playlists/"
     )
 
@@ -574,8 +574,8 @@ def push_updates(now):
     print("Configuring git")
 
     config = ["git", "config", "--global"]
-    config_name = run(config + ["user.name", "Mack Ward (Bot Account)"])
-    config_email = run(config + ["user.email", "mackorone.bot@gmail.com"])
+    config_name = run(config + ["user.name", "vitokorn"])
+    config_email = run(config + ["user.email", "dangerouzua@gmail.com"])
 
     if config_name.returncode != 0:
         raise Exception("Failed to configure name")
@@ -590,9 +590,8 @@ def push_updates(now):
 
     print("Committing changes")
 
-    build = os.getenv("TRAVIS_BUILD_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
-    message = "[skip ci] Build #{} ({})".format(build, now_str)
+    message = "[skip ci] Build # ({})".format(now_str)
     commit = run(["git", "commit", "-m", message])
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
@@ -611,7 +610,7 @@ def push_updates(now):
     # It's ok to print the token, Travis will hide it
     token = os.getenv("GITHUB_ACCESS_TOKEN")
     url = (
-        "https://mackorone-bot:{}@github.com/mackorone/"
+        "https://vitokorn:{}@github.com/vitokorn/"
         "spotify-playlist-archive.git".format(token)
     )
     remote_add = run(["git", "remote", "add", "origin", url])
@@ -643,3 +642,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
