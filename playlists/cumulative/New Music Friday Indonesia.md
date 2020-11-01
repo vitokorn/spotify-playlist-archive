@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/New%20Music%20Friday%20Indonesia.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8vAahjzdXGC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8vAahjzdXGC))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/New%20Music%20Friday%20Indonesia.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8vAahjzdXGC) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8vAahjzdXGC))
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
@@ -2739,6 +2739,7 @@
 | [Snail](https://open.spotify.com/track/3qR0txhV0ztr0hNUJGAOG6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Snail](https://open.spotify.com/album/7sHwSoFWCWTdXe45t0vC27) | 3:00 | 2020-08-14 | 2020-08-21 |
 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2020-06-19 | 2020-06-29 |
 | [Snub](https://open.spotify.com/track/6bc1eT78cvMHU0TuQQaYtU) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Snub](https://open.spotify.com/album/4OQaf3y0lNA2N0G7VYJJnD) | 2:14 | 2020-08-07 | 2020-08-14 |
+| [So Beautiful](https://open.spotify.com/track/3aPUPt18WCBy8pYAWn77Py) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So Beautiful](https://open.spotify.com/album/48T3diKnUEcNZKxM9PKKFZ) | 3:07 | 2020-11-01 |  |
 | [So Done (feat. Khalid)](https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [So Done (feat. Khalid)](https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO) | 3:55 | 2020-08-14 | 2020-08-21 |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2020-10-23 | 2020-10-30 |
 | [So Good (feat. bülow)](https://open.spotify.com/track/5prADFoX6V0gF4BxWP9xuI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [So Good (feat. bülow)](https://open.spotify.com/album/2EcUxxfMnPdGYtz9tcdnnw) | 2:39 | 2020-04-24 | 2020-05-01 |

@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/murga.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5htE97xLVu4akvNcmhLien) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5htE97xLVu4akvNcmhLien))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/murga.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5htE97xLVu4akvNcmhLien) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5htE97xLVu4akvNcmhLien))
 
 ### [murga](https://open.spotify.com/playlist/5htE97xLVu4akvNcmhLien)
 

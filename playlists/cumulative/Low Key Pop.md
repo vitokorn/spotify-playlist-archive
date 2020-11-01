@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Low%20Key%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Low%20Key%20Pop.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx))
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
@@ -66,6 +66,7 @@
 | [Crush](https://open.spotify.com/track/5stsHsQTNRp8guy8Y6AJmQ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Crush](https://open.spotify.com/album/1heXxMqKYRntAtRRKSu6I5) | 2:46 | 2020-08-30 |  |
 | [CRYBABY :*(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :*(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-01 | 2020-02-12 |
 | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-08-27 | 2019-11-11 |
+| [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2020-11-01 |  |
 | [Dance Alone](https://open.spotify.com/track/6l8ai4INZVibQ212THNkDo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Dance Alone](https://open.spotify.com/album/7BsJGPd1VYmeGasENuW2PE) | 2:33 | 2020-05-29 |  |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-03-27 |  |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27 |  |

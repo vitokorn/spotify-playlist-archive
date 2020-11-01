@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Totally%20Stress%20Free.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWT7XSlwvR1ar) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWT7XSlwvR1ar))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Totally%20Stress%20Free.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWT7XSlwvR1ar) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWT7XSlwvR1ar))
 
 ### [Totally Stress Free](https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar)
 

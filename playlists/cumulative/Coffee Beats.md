@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Coffee%20Beats.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1uaml3UXYLk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1uaml3UXYLk))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Coffee%20Beats.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1uaml3UXYLk) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1uaml3UXYLk))
 
 ### [Coffee Beats](https://open.spotify.com/playlist/37i9dQZF1DX1uaml3UXYLk)
 

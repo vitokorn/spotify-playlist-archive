@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Streamed.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Streamed.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
 
 ### [Streamed](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 
@@ -351,7 +351,7 @@
 | [Over the Edge](https://open.spotify.com/track/3pxtyYq7JSibCIHzbJZdJK) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Over the Edge](https://open.spotify.com/album/3xx8wWM8DklLofDmNQUJ7c) | 3:49 | 2020-10-12 |  |
 | [Pacific Ocean Blues](https://open.spotify.com/track/4h0LDG7Ji9G2dxG1hb6JoL) | [Dennis Wilson](https://open.spotify.com/artist/5gl6pfPwJ1coivVUMZPiS9) | [Pacific Ocean Blue & Bambu - 2 CD Deluxe Legacy Edition](https://open.spotify.com/album/08CyNpU6VJMtGmR7DYjNmQ) | 2:37 | 2020-10-12 |  |
 | [Panama](https://open.spotify.com/track/42Lq6GBO5KUSNeSgJsOoke) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:32 | 2020-10-12 |  |
-| [Paper Cuts - Remastered](https://open.spotify.com/track/3iKOfCVBylKnjQFzJy41vm) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 4:05 | 2020-10-12 |  |
+| [Paper Cuts - Remastered](https://open.spotify.com/track/3iKOfCVBylKnjQFzJy41vm) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 4:06 | 2020-10-12 |  |
 | [Paper Tiger](https://open.spotify.com/track/799azdZNV34Z1w8CQ1z9ds) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:35 | 2020-10-12 |  |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2020-10-12 |  |
 | [Pearly* - Remastered](https://open.spotify.com/track/4ozum7awQLhJ6D6fQL5xPy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/4ENxWWkPImVwAle9cpJ12I) | 3:38 | 2020-10-12 |  |

@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Lorem.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
+[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Lorem.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
@@ -691,7 +691,7 @@
 | [UrbanAngel1999](https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/5axdYpfOE0FnDMPlhxyqXQ) | 3:10 | 2020-09-10 |  |
 | [Used To Love](https://open.spotify.com/track/6WC27GPEjsX24Vv12VX6mb) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Used To Love](https://open.spotify.com/album/2oGxWLARSLplTHJ4HhiwPD) | 3:35 | 2019-10-04 | 2020-01-10 |
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 | 2020-02-05 |
-| [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2020-07-31 | 2020-08-20 |
+| [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2020-07-31 |  |
 | [Vanity](https://open.spotify.com/track/073ieHTpc9Lfug88ojL9DT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 4:53 | 2020-08-20 | 2020-09-04 |
 | [Vanity](https://open.spotify.com/track/3I7axpzCW6bt5PhoM8kfrA) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Vanity](https://open.spotify.com/album/6FUrjjRfCi4MA9iI1BoLls) | 4:53 | 2019-10-11 | 2020-04-09 |
 | [Video (feat. Mallrat)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30 | 2019-08-02 |
