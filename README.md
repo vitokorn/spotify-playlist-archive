@@ -1,4 +1,4 @@
-# spotify-playlist-archive [![Build Status](https://travis-ci.com/mackorone/spotify-playlist-archive.svg?branch=master)](https://travis-ci.com/mackorone/spotify-playlist-archive)
+# spotify-playlist-archive [![Build Status](https://api.travis-ci.com/vitokorn/spotify-playlist-archive.svg?branch=master)](https://travis-ci.com/github/vitokorn/spotify-playlist-archive)
 
 > Daily snapshots of public Spotify playlists
 
@@ -28,7 +28,7 @@ Since Spotify won't take snapshots of our favorite playlists, let's do it oursel
 
 This repository contains a script for scraping Spotify playlists and publishing
 them back to the repo. The script is run daily via
-[Travis CI](https://travis-ci.com/mackorone/spotify-playlist-archive)
+[Travis CI](https://travis-ci.com/github/vitokorn/spotify-playlist-archive)
 (free for public GitHub repos). It's also run after every commit, which means
 that playlists get regenerated whenever the scraping or formatting logic
 changes, or when new playlists are added - cool!
