@@ -10,7 +10,6 @@ import subprocess
 
 import requests
 
-
 Playlist = collections.namedtuple(
     "Playlist",
     [
@@ -51,7 +50,6 @@ class PrivatePlaylistError(Exception):
 
 
 class Spotify:
-
     BASE_URL = "https://api.spotify.com/v1/playlists/"
 
     def __init__(self, client_id, client_secret):
@@ -82,7 +80,7 @@ class Spotify:
 
         return access_token
 
-    def get_playlist(self, playlist_id, aliases):
+    def get_playlist(self, playlist_id):
         playlist_href = self._get_playlist_href(playlist_id)
         response = self._make_request(playlist_href)
 
@@ -99,14 +97,8 @@ class Spotify:
 
         url = self._get_url(response["external_urls"])
 
-        # If the playlist has an alias, use it
-        if playlist_id in aliases:
-            name = aliases[playlist_id]
-        else:
-            name = response["name"]
-
         # Playlist names can't have "/" so use "\" instead
-        name = name.replace("/", "\\")
+        name = response["name"].replace("/", "\\")
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
 
@@ -188,7 +180,6 @@ class Spotify:
 
 
 class Formatter:
-
     TRACK_NO = "No."
     TITLE = "Title"
     ARTISTS = "Artist(s)"
@@ -303,12 +294,12 @@ class Formatter:
 
     @classmethod
     def _markdown_header_lines(
-        cls,
-        playlist_name,
-        playlist_url,
-        playlist_id,
-        playlist_description,
-        is_cumulative,
+            cls,
+            playlist_name,
+            playlist_url,
+            playlist_id,
+            playlist_description,
+            is_cumulative,
     ):
         if is_cumulative:
             pretty = cls._link("pretty", URL.pretty(playlist_name))
@@ -414,7 +405,6 @@ class Formatter:
 
 
 class URL:
-
     BASE = (
         "https://github.com/vitokorn/spotify-playlist-archive/"
         "blob/master/playlists/"
@@ -446,7 +436,6 @@ def update_files(now):
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
     )
 
-    aliases_dir = "playlists/aliases"
     plain_dir = "playlists/plain"
     pretty_dir = "playlists/pretty"
     cumulative_dir = "playlists/cumulative"
@@ -456,30 +445,12 @@ def update_files(now):
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
 
-    # Aliases are alternative playlists names. They're useful for avoiding
-    # naming collisions when archiving personalized playlists, which have the
-    # same name for every user. To add an alias, simply create a file like
-    # playlists/aliases/<playlist_id> that contains the alternative name.
-    aliases = {}
-    for playlist_id in os.listdir(aliases_dir):
-        alias_path = "{}/{}".format(aliases_dir, playlist_id)
-        if playlist_id not in playlist_ids:
-            print("Removing unused alias: {}".format(playlist_id))
-            os.remove(alias_path)
-            continue
-        contents = open(alias_path).read().splitlines()
-        if len(contents) != 1:
-            print("Removing malformed alias: {}".format(playlist_id))
-            os.remove(alias_path)
-            continue
-        aliases[playlist_id] = contents[0]
-
     readme_lines = []
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
-            playlist = spotify.get_playlist(playlist_id, aliases)
+            playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
             print("Removing private playlist: {}".format(playlist_id))
             os.remove(plain_path)
@@ -546,7 +517,7 @@ def update_files(now):
     readme = open("README.md").read().splitlines()
     index = readme.index("## Playlists")
     lines = (
-        readme[: index + 1] + [""] + sorted(readme_lines, key=lambda line: line.lower())
+            readme[: index + 1] + [""] + sorted(readme_lines, key=lambda line: line.lower())
     )
     with open("README.md", "w") as f:
         f.write("\n".join(lines) + "\n")
@@ -642,4 +613,4 @@ def main():
 
 if __name__ == "__main__":
     main()
- 
+
