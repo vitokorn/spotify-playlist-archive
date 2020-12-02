@@ -454,18 +454,18 @@ def update_files(now):
         if not playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"):
             plain_path = "{}/{}".format(plain_dir, playlist_id)
             try:
-                test = spotify.get_playlist(ignored)
+                test = spotify.get_playlist(playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"))
                 print('Test: {}'.format(test))
             except:
                 print("Error: {}".format(traceback.format_exc()))
             else:
                 print('Test: {}'.format(test.name))
                 readme_lines.append(
-                        "- [{}]({})".format(
-                            test.name,
-                            URL.pretty(test.name),
-                        )
+                    "- [{}]({})".format(
+                        test.name,
+                        URL.pretty(test.name),
                     )
+                )
             try:
                 playlist = spotify.get_playlist(playlist_id)
             except PrivatePlaylistError:
