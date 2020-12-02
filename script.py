@@ -450,23 +450,17 @@ def update_files(now):
     for playlist_id in playlist_ids:
         ignored = '37i9dQZF1E37YIfAiHUTYF'
         ignored_path = "{}/{}".format(plain_dir, ignored)
+        test = spotify.get_playlist(ignored)
+        print('Test: {}'.format(test.name))
+        readme_lines.append(
+            "- [{}]({})".format(
+                test.name,
+                URL.pretty(test.name),
+            )
+        )
         # added ignore for some playlists
         if not ignored in playlist_id:
             plain_path = "{}/{}".format(plain_dir, playlist_id)
-            try:
-                test = spotify.get_playlist(ignored)
-                print('Test: {}'.format(test))
-            except:
-                print("Error: {}".format(traceback.format_exc()))
-                os.remove(ignored_path)
-            else:
-                print('Test: {}'.format(test.name))
-                readme_lines.append(
-                    "- [{}]({})".format(
-                        test.name,
-                        URL.pretty(test.name),
-                    )
-                )
             try:
                 playlist = spotify.get_playlist(playlist_id)
             except PrivatePlaylistError:
