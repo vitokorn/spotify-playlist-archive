@@ -470,14 +470,17 @@ def update_files(now):
                 )
                 try:
                     test = spotify.get_playlist(ignored)
+                    print('Test: {}'.format(test))
+                except:
+                    print("Error")
+                else:
+                    print('Test: {}'.format(test.name))
                     readme_lines.append(
                         "- [{}]({})".format(
                             test.name,
                             URL.pretty(test.name),
                         )
                     )
-                except:
-                    pass
 
                 pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
                 cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
