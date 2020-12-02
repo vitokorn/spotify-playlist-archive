@@ -447,10 +447,14 @@ def update_files(now):
     playlist_ids = os.listdir(plain_dir)
 
     readme_lines = []
-    for playlist_id in playlist_ids:
-        ignored = '37i9dQZF1E37YIfAiHUTYF'
-        ignored_path = "{}/{}".format(plain_dir, ignored)
+    ignored = '37i9dQZF1E37YIfAiHUTYF'
+    ignored_path = "{}/{}".format(plain_dir, ignored)
+    try:
         test = spotify.get_playlist(ignored)
+    except:
+        print("Error: {}".format(traceback.format_exc()))
+        os.remove(ignored_path)
+    else:
         print('Test: {}'.format(test.name))
         readme_lines.append(
             "- [{}]({})".format(
@@ -458,6 +462,8 @@ def update_files(now):
                 URL.pretty(test.name),
             )
         )
+    for playlist_id in playlist_ids:
+
         # added ignore for some playlists
         if not ignored in playlist_id:
             plain_path = "{}/{}".format(plain_dir, playlist_id)
