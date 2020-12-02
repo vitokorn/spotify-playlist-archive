@@ -451,7 +451,7 @@ def update_files(now):
         ignored = '37i9dQZF1E37YIfAiHUTYF'
         ignored_path = "{}/{}".format(plain_dir, ignored)
         # added ignore for some playlists
-        if not ignored:
+        if not ignored in playlist_id:
             plain_path = "{}/{}".format(plain_dir, playlist_id)
             try:
                 test = spotify.get_playlist(ignored)
