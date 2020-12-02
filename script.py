@@ -448,9 +448,7 @@ def update_files(now):
     readme_lines = []
     for playlist_id in playlist_ids:
         # added ignore for some playlists
-        if playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"):
-            pass
-        else:
+        if not playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"):
             plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
