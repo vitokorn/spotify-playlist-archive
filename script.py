@@ -7,6 +7,7 @@ import datetime
 import os
 import re
 import subprocess
+import traceback
 
 import requests
 
@@ -447,12 +448,11 @@ def update_files(now):
 
     readme_lines = []
     for playlist_id in playlist_ids:
+        ignored = playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF")
+        ignored_path = "{}/{}".format(plain_dir, ignored)
         # added ignore for some playlists
         if not playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"):
-            ignored = playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF")
             plain_path = "{}/{}".format(plain_dir, playlist_id)
-            ignored_path = "{}/{}".format(plain_dir, ignored)
-
             try:
                 playlist = spotify.get_playlist(playlist_id)
             except PrivatePlaylistError:
@@ -469,10 +469,10 @@ def update_files(now):
                     )
                 )
                 try:
-                    test = spotify.get_playlist(ignored)
                     print('Test: {}'.format(test))
+                    test = spotify.get_playlist(ignored)
                 except:
-                    print("Error")
+                    print("Error: {}".format(traceback.format_exc()))
                 else:
                     print('Test: {}'.format(test.name))
                     readme_lines.append(
