@@ -447,7 +447,11 @@ def update_files(now):
 
     readme_lines = []
     for playlist_id in playlist_ids:
-        plain_path = "{}/{}".format(plain_dir, playlist_id)
+        # added ignore for some playlists
+        if playlist_id.startswith("37i9dQZF1E37YIfAiHUTYF"):
+            pass
+        else:
+            plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
             playlist = spotify.get_playlist(playlist_id)
