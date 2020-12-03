@@ -501,6 +501,31 @@ def update_files(now):
                         URL.pretty(al.name),
                     )
                 )
+                pretty_path = "{}/{}.md".format(pretty_dir, al.name)
+                cumulative_path = "{}/{}.md".format(cumulative_dir, al.name)
+
+                for path, func, flag in [
+                    (alias_path, Formatter.plain, False),
+                    (pretty_path, Formatter.pretty, False),
+                    (cumulative_path, Formatter.cumulative, True),
+                ]:
+                    try:
+                        prev_content = "".join(open(path).readlines())
+                    except Exception:
+                        prev_content = None
+
+                    if flag:
+                        args = [now, prev_content, aliases_id, al]
+                    else:
+                        args = [aliases_id, al]
+
+                    content = func(*args)
+                    if content == prev_content:
+                        print("No changes to file: {}".format(path))
+                    else:
+                        print("Writing updates to file: {}".format(path))
+                        with open(path, "w") as f:
+                            f.write(content)
 
     for playlist_id in playlist_ids:
 
