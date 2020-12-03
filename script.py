@@ -473,11 +473,11 @@ def update_files(now):
     aliases = {}
     aliases_dir = "playlists/aliases"
     aliasescheck = os.path.isdir(aliases_dir)
-    aliases_ids = os.listdir(aliases_dir)
     print("Aliases path: {}".format(aliasescheck))
     if aliasescheck is True:
         for aliases_id in os.listdir(aliases_dir):
             alias_path = "{}/{}".format(aliases_dir, aliases_id)
+            aliases_ids = os.listdir(aliases_dir)
             if aliases_id not in aliases_ids:
                 print("Removing unused alias: {}".format(aliases_id))
                 os.remove(alias_path)
