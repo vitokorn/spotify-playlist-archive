@@ -469,6 +469,37 @@ def update_files(now):
                 URL.pretty(test.name),
             )
         )
+    #aliases
+    aliases = {}
+    aliases_dir = "playlists/aliases"
+    aliasescheck = os.path.isdir('playlists/aliases')
+    if aliasescheck is True:
+        for aliases_id in os.listdir(aliases_dir):
+            alias_path = "{}/{}".format(aliases_dir, aliases_id)
+            if aliases_id not in playlist_ids:
+                print("Removing unused alias: {}".format(aliases_id))
+                os.remove(alias_path)
+                continue
+            contents = open(alias_path).read().splitlines()
+            if len(contents) != 1:
+                print("Removing malformed alias: {}".format(aliases_id))
+                os.remove(alias_path)
+                continue
+            aliases[aliases_id] = contents[0]
+            try:
+                al = spotify.get_playlist(aliases)
+            except:
+                print("Error: {}".format(traceback.format_exc()))
+                os.remove(ignored_path)
+            else:
+                print('Test: {}'.format(al.name))
+                readme_lines.append(
+                    "- [{}]({})".format(
+                        al.name,
+                        URL.pretty(al.name),
+                    )
+                )
+
     for playlist_id in playlist_ids:
 
         # added ignore for some playlists
