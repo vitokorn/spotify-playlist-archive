@@ -469,63 +469,6 @@ def update_files(now):
                 URL.pretty(test.name),
             )
         )
-    #aliases
-    aliases = {}
-    aliases_dir = "playlists/aliases"
-    aliasescheck = os.path.isdir(aliases_dir)
-    print("Aliases path: {}".format(aliasescheck))
-    if aliasescheck is True:
-        for aliases_id in os.listdir(aliases_dir):
-            alias_path = "{}/{}".format(aliases_dir, aliases_id)
-            aliases_ids = os.listdir(aliases_dir)
-            if aliases_id not in aliases_ids:
-                print("Removing unused alias: {}".format(aliases_id))
-                os.remove(alias_path)
-                continue
-            contents = open(alias_path).read().splitlines()
-            if len(contents) != 1:
-                print("Removing malformed alias: {}".format(aliases_id))
-                os.remove(alias_path)
-                continue
-            aliases[aliases_id] = contents[0]
-            try:
-                al = spotify.get_playlist(aliases)
-            except:
-                print("Error: {}".format(traceback.format_exc()))
-                os.remove(ignored_path)
-            else:
-                print('Test: {}'.format(al.name))
-                readme_lines.append(
-                    "- [{}]({})".format(
-                        al.name,
-                        URL.pretty(al.name),
-                    )
-                )
-                pretty_path = "{}/{}.md".format(pretty_dir, al.name)
-                cumulative_path = "{}/{}.md".format(cumulative_dir, al.name)
-
-                for path, func, flag in [
-                    (alias_path, Formatter.plain, False),
-                    (pretty_path, Formatter.pretty, False),
-                    (cumulative_path, Formatter.cumulative, True),
-                ]:
-                    try:
-                        prev_content = "".join(open(path).readlines())
-                    except Exception:
-                        prev_content = None
-
-                    if flag:
-                        args = [now, prev_content, aliases_id, al]
-                    else:
-                        args = [aliases_id, al]
-
-                    content = func(*args)
-                    if content == prev_content:
-                        print("No changes to file: {}".format(path))
-                    else:
-                        print("Writing updates to file: {}".format(path))
-                        with open(path, "w") as f:
-                            f.write(content)
 
     for playlist_id in playlist_ids:
 
