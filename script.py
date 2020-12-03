@@ -472,7 +472,7 @@ def update_files(now):
     #aliases
     aliases = {}
     aliases_dir = "playlists/aliases"
-    aliasescheck = os.path.isdir('playlists/aliases')
+    aliasescheck = os.path.isdir(aliases_dir)
     print("Aliases path: {}".format(aliasescheck))
     if aliasescheck is True:
         for aliases_id in os.listdir(aliases_dir):
