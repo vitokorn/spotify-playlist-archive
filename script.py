@@ -448,74 +448,74 @@ def update_files(now):
 
     readme_lines = []
     #added ignored by playlist url
-    ignored = '37i9dQZF1E37YIfAiHUTYF'
-    ignored_path = "{}/{}".format(plain_dir, ignored)
+    # ignored = '37i9dQZF1E37YIfAiHUTYF'
+    # ignored_path = "{}/{}".format(plain_dir, ignored)
     # if more than one playlist to ignore comment the section above
-    # ignored_list = ['37i9dQZF1E37YIfAiHUTYF', '37i9dQZF1DX3fXJqxGjuEP']
-    # for ignored in ignored_list:
-    #     if ignored in playlist_ids:
-    #         ignored_path = "{}/{}".format(plain_dir, ignored)
-    #         print (ignored)
-    try:
-        test = spotify.get_playlist(ignored)
-    except:
-        print("Error: {}".format(traceback.format_exc()))
-        os.remove(ignored_path)
-    else:
-        print('Test: {}'.format(test.name))
-        readme_lines.append(
-            "- [{}]({})".format(
-                test.name,
-                URL.pretty(test.name),
-            )
-        )
-
-    for playlist_id in playlist_ids:
-
-        # added ignore for some playlists
-        if not ignored in playlist_id:
-            plain_path = "{}/{}".format(plain_dir, playlist_id)
+    ignored_list = ['']
+    for ignored in ignored_list:
+        if ignored in playlist_ids:
+            ignored_path = "{}/{}".format(plain_dir, ignored)
+            print (ignored)
             try:
-                playlist = spotify.get_playlist(playlist_id)
-            except PrivatePlaylistError:
-                print("Removing private playlist: {}".format(playlist_id))
-                os.remove(plain_path)
-            except InvalidPlaylistError:
-                print("Removing invalid playlist: {}".format(playlist_id))
-                os.remove(plain_path)
+                test = spotify.get_playlist(ignored)
+            except:
+                print("Error: {}".format(traceback.format_exc()))
+                os.remove(ignored_path)
             else:
+                print('Test: {}'.format(test.name))
                 readme_lines.append(
                     "- [{}]({})".format(
-                        playlist.name,
-                        URL.pretty(playlist.name),
+                        test.name,
+                        URL.pretty(test.name),
                     )
                 )
 
-                pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
-                cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
+            for playlist_id in playlist_ids:
 
-                for path, func, flag in [
-                    (plain_path, Formatter.plain, False),
-                    (pretty_path, Formatter.pretty, False),
-                    (cumulative_path, Formatter.cumulative, True),
-                ]:
+                # added ignore for some playlists
+                if not ignored in playlist_id:
+                    plain_path = "{}/{}".format(plain_dir, playlist_id)
                     try:
-                        prev_content = "".join(open(path).readlines())
-                    except Exception:
-                        prev_content = None
-
-                    if flag:
-                        args = [now, prev_content, playlist_id, playlist]
+                        playlist = spotify.get_playlist(playlist_id)
+                    except PrivatePlaylistError:
+                        print("Removing private playlist: {}".format(playlist_id))
+                        os.remove(plain_path)
+                    except InvalidPlaylistError:
+                        print("Removing invalid playlist: {}".format(playlist_id))
+                        os.remove(plain_path)
                     else:
-                        args = [playlist_id, playlist]
+                        readme_lines.append(
+                            "- [{}]({})".format(
+                                playlist.name,
+                                URL.pretty(playlist.name),
+                            )
+                        )
 
-                    content = func(*args)
-                    if content == prev_content:
-                        print("No changes to file: {}".format(path))
-                    else:
-                        print("Writing updates to file: {}".format(path))
-                        with open(path, "w") as f:
-                            f.write(content)
+                        pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
+                        cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
+
+                        for path, func, flag in [
+                            (plain_path, Formatter.plain, False),
+                            (pretty_path, Formatter.pretty, False),
+                            (cumulative_path, Formatter.cumulative, True),
+                        ]:
+                            try:
+                                prev_content = "".join(open(path).readlines())
+                            except Exception:
+                                prev_content = None
+
+                            if flag:
+                                args = [now, prev_content, playlist_id, playlist]
+                            else:
+                                args = [playlist_id, playlist]
+
+                            content = func(*args)
+                            if content == prev_content:
+                                print("No changes to file: {}".format(path))
+                            else:
+                                print("Writing updates to file: {}".format(path))
+                                with open(path, "w") as f:
+                                    f.write(content)
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
