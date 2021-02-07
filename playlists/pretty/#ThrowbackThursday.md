@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/
 
 ### [#ThrowbackThursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> Celebrate Black Music Month with the most influential & timeless artists from 1950-1969. Cover: The Supremes #SpotifyTBT
+> Celebrate Black History Month with the most influential & timeless artists from 1950-1969. Cover: The Supremes #SpotifyTBT
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
