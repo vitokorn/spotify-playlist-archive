@@ -2,7 +2,7 @@
 
 ### [Fresh Finds: Basement](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> Fresh dance and electronic music by independent artists every Wednesday. Cover: TSHA. Artwork: <a href=“https://www.instagram.com/adriana_lozano_roman/”>Adriana Lozano</a>.
+> Fresh dance and electronic music by independent artists every Wednesday. Cover: TSHA. Artwork: <a href="https://www.instagram.com/adriana_lozano_roman/">Adriana Lozano</a>.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
