@@ -451,7 +451,7 @@ def update_files(now):
     # ignored = '37i9dQZF1E37YIfAiHUTYF'
     # ignored_path = "{}/{}".format(plain_dir, ignored)
     # if more than one playlist to ignore comment the section above
-    ignored_list = ['37i9dQZF1E37YIfAiHUTYF','37i9dQZF1DWWwaxRea1LWS']
+    ignored_list = ['37i9dQZF1E37YIfAiHUTYF']
     for ignored in ignored_list:
         if ignored in playlist_ids:
             ignored_path = "{}/{}".format(plain_dir, ignored)
