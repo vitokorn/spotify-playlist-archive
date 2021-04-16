@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> A little indie disco, featuring Jungle (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+> A tender start to our indie disco, featuring Fred again... (o˘◡˘o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All About You (feat. Foster The People)](https://open.spotify.com/track/5ug2bpyUHVOR7Y3TUPH3J7) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You (feat. Foster The People)](https://open.spotify.com/album/2pGD0e3QJo37XJpbgHm59q) | 3:36 | 2021-01-19 | 2021-03-26 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-30 |  |
 | [All That (with Channel Tres)](https://open.spotify.com/track/1rDRBVSqKgs3K9HiX5OTrL) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All That (with Channel Tres)](https://open.spotify.com/album/7dKKcOsUPcTrzlQYmG2Hq3) | 3:05 | 2021-01-19 |  |
+| [Angie (I’ve Been Lost)](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life (April 14 - December 17 2020)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2021-04-16 |  |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2021-01-19 | 2021-01-30 |
 | [Are You Bored Yet? (feat. Clairo) - Mura Masa Remix](https://open.spotify.com/track/4jgAfg7f9Wf6p4sIWYeOi3) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Are You Bored Yet? (feat. Clairo) [Mura Masa Remix]](https://open.spotify.com/album/6wfbONYZZCJUAdKj2clYla) | 3:16 | 2021-01-19 | 2021-02-26 |
 | [Around You](https://open.spotify.com/track/0z776mgVazsVcW25OW385L) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Around You](https://open.spotify.com/album/0kxiIlHs6PTs2QwxA5L4NS) | 1:51 | 2021-01-19 | 2021-02-26 |
