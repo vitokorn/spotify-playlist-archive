@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> A tender start to our indie disco, featuring Fred again... (o˘◡˘o)
+> A tender start to our indie disco, featuring Fred again.. (o˘◡˘o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
