@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> it's been 6 years since we heard from porter robinson, and we're so glad he's back ヾ(＾-＾)ノ
+> it's been 7 years since we heard from porter robinson, and we're so glad he's back ヾ(＾-＾)ノ
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
