@@ -530,11 +530,11 @@ def update_files(now):
     for filename in os.listdir(pretty_dir):
         pretty_playlists.add(filename[:-3])  # strip .md suffix
 
-    missing_from_plain = pretty_playlists - plain_playlists
+    #missing_from_plain = pretty_playlists - plain_playlists
     missing_from_pretty = plain_playlists - pretty_playlists
 
-    if missing_from_plain:
-        raise Exception("Missing plain playlists: {}".format(missing_from_plain))
+    # if missing_from_plain:
+    #     raise Exception("Missing plain playlists: {}".format(missing_from_plain))
 
     if missing_from_pretty:
         raise Exception("Missing pretty playlists: {}".format(missing_from_pretty))
