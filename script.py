@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from contextlib import asynccontextmanager
 
 import aiohttp
 import argparse
@@ -63,6 +64,29 @@ class Spotify:
     def __init__(self, access_token):
         headers = {"Authorization": f"Bearer {access_token}"}
         self._session = aiohttp.ClientSession(headers=headers)
+        # Handle rate limiting by retrying
+        self._retry_budget_seconds: int = 30
+        self._session.get = self._make_retryable(self._session.get)
+
+    def _make_retryable(self, func):
+        @asynccontextmanager
+        async def wrapper(*args, **kwargs):
+            while True:
+                response = await func(*args, **kwargs)
+                if response.status != 429:
+                    yield response
+                    return
+                # Add an extra second, just to be safe
+                # https://stackoverflow.com/a/30557896/3176152
+                backoff_seconds = int(response.headers["Retry-After"]) + 1
+                self._retry_budget_seconds -= backoff_seconds
+                if self._retry_budget_seconds <= 0:
+                    raise Exception("Retry budget exceeded")
+                else:
+                    logger.warning(f"Rate limited, will retry after {backoff_seconds}s")
+                    await asyncio.sleep(backoff_seconds)
+
+        return wrapper
 
     async def shutdown(self):
         await self._session.close()
@@ -73,7 +97,7 @@ class Spotify:
     async def get_playlist(self, playlist_id):
         playlist_href = self._get_playlist_href(playlist_id)
         async with self._session.get(playlist_href) as response:
-            data = await response.json()
+            data = await response.json(content_type=None)
 
         error = data.get("error")
         if error:
@@ -88,11 +112,23 @@ class Spotify:
 
         url = self._get_url(data["external_urls"])
 
-        # Playlist names can't have "/" so use "\" instead
-        name = data["name"].replace("/", "\\")
+        # Playlist names can't have "/" or "\" so use " " instead
+        name = data["name"].replace("/", " ")
+        name = data["name"].replace("\\", " ")
+        # Windows filenames can't have ":" so use " -" instead
+        name = data["name"].replace(":", " -")
+        # Windows filenames can't have "|" so use "-" instead
+        name = data["name"].replace("|", "-")
+        # Windows filenames can't have "?" so just remove them
+        name = data["name"].replace("?", "")
+        # Playlist names shouldn't have enclosing spaces or dots
+        name = data["name"].strip(" .")
+
+        if not name:
+            raise Exception(f"Empty playlist name: {playlist_id}")
+
         description = data["description"]
         tracks = await self._get_tracks(playlist_id)
-
         return Playlist(url=url, name=name, description=description, tracks=tracks)
 
     async def _get_tracks(self, playlist_id):
@@ -115,11 +151,16 @@ class Spotify:
                 id_ = track["id"]
                 url = self._get_url(track["external_urls"])
                 duration_ms = track["duration_ms"]
+
                 name = track["name"]
-                album = Album(
-                    url=self._get_url(track["album"]["external_urls"]),
-                    name=track["album"]["name"],
-                )
+                album = track["album"]["name"]
+
+                if not name:
+                    logger.warning("Empty track name: {}".format(url))
+                    name = "<MISSING>"
+                if not album:
+                    logger.warning("Empty track album: {}".format(url))
+                    album = "<MISSING>"
 
                 artists = []
                 for artist in track["artists"]:
@@ -130,13 +171,19 @@ class Spotify:
                         )
                     )
 
+                if not artists:
+                    logger.warning("Empty track artists: {}".format(url))
+
                 tracks.append(
                     Track(
                         id=id_,
                         url=url,
                         duration_ms=duration_ms,
                         name=name,
-                        album=album,
+                        album=Album(
+                            url=self._get_url(track["album"]["external_urls"]),
+                            name=album,
+                        ),
                         artists=artists,
                     )
                 )
@@ -404,7 +451,8 @@ class Formatter:
 
     @classmethod
     def _unlink(cls, link):
-        return re.match(cls.LINK_REGEX, link).group(1)
+        match = re.match(cls.LINK_REGEX, link)
+        return match and match.group(1) or ""
 
     @classmethod
     def _format_duration(cls, duration_ms):
@@ -454,7 +502,13 @@ async def update_files(now):
     # Initialize the Spotify client
     access_token = await Spotify.get_access_token(client_id, client_secret)
     spotify = Spotify(access_token)
+    try:
+        await update_files_impl(now, spotify)
+    finally:
+        await spotify.shutdown()
 
+
+async def update_files_impl(now, spotify):
     aliases_dir = "playlists/aliases"
     plain_dir = "playlists/plain"
     pretty_dir = "playlists/pretty"
@@ -566,8 +620,6 @@ async def update_files(now):
     )
     with open("README.md", "w") as f:
         f.write("\n".join(lines) + "\n")
-
-    await spotify.shutdown()
 
 
 def run(args):
