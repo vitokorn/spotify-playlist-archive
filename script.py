@@ -113,23 +113,14 @@ class Spotify:
         url = self._get_url(data["external_urls"])
 
         # Playlist names can't have "/" or "\" so use " " instead
-        data["name"].replace("/", " ")
-        data["name"].replace("\\", " ")
-        # Windows filenames can't have ":" so use " -" instead
-        data["name"].replace(":", " -")
-        # Windows filenames can't have "|" so use "-" instead
-        data["name"].replace("|", "-")
-        # Windows filenames can't have "?" so just remove them
-        data["name"].replace("?", "")
-        # Playlist names shouldn't have enclosing spaces or dots
-        data["name"].strip(" .")
+        name = data["name"].replace("/", " ").replace("\\", " ").replace(":", " -").replace("|", "-").replace("?", "").strip(" .")
 
-        if not data["name"]:
+        if not name:
             raise Exception(f"Empty playlist name: {playlist_id}")
 
         description = data["description"]
         tracks = await self._get_tracks(playlist_id)
-        return Playlist(url=url, name=data["name"], description=description, tracks=tracks)
+        return Playlist(url=url, name=name, description=description, tracks=tracks)
 
     async def _get_tracks(self, playlist_id):
         tracks = []
