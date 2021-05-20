@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/vaporwave.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS))
+pretty - [cumulative](/playlists/cumulative/vaporwave.md) - [plain](/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS))
 
 ### [vaporwave](https://open.spotify.com/playlist/37i9dQZF1DWU4EQPjP9ZpS)
 

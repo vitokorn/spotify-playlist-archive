@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Warehouse%20Party.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5hHfOi73rY3) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5hHfOi73rY3))
+[pretty](/playlists/pretty/Warehouse%20Party.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hHfOi73rY3) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5hHfOi73rY3))
 
 ### [Warehouse Party](https://open.spotify.com/playlist/37i9dQZF1DX5hHfOi73rY3)
 

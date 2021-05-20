@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Vibra%20Tropical.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3fXJqxGjuEP) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3fXJqxGjuEP))
+pretty - [cumulative](/playlists/cumulative/Vibra%20Tropical.md) - [plain](/playlists/plain/37i9dQZF1DX3fXJqxGjuEP) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3fXJqxGjuEP))
 
 ### [Vibra Tropical](https://open.spotify.com/playlist/37i9dQZF1DX3fXJqxGjuEP)
 

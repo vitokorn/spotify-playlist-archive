@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Coffee%20Club.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX79UF7ALECl7) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX79UF7ALECl7))
+[pretty](/playlists/pretty/Coffee%20Club.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX79UF7ALECl7) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX79UF7ALECl7))
 
 ### [Coffee Club](https://open.spotify.com/playlist/37i9dQZF1DX79UF7ALECl7)
 

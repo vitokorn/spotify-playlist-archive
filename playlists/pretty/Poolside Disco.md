@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Poolside%20Disco.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi))
+pretty - [cumulative](/playlists/cumulative/Poolside%20Disco.md) - [plain](/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi))
 
 ### [Poolside Disco](https://open.spotify.com/playlist/37i9dQZF1DWSvfPiFfb8Mi)
 

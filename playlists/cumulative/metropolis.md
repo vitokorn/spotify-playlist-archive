@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/metropolis.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8CopunbDxgW) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8CopunbDxgW))
+[pretty](/playlists/pretty/metropolis.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8CopunbDxgW) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8CopunbDxgW))
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 

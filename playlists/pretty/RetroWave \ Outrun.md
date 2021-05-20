@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/RetroWave%20\%20Outrun.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdLEN7aqioXM) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdLEN7aqioXM))
+pretty - [cumulative](/playlists/cumulative/RetroWave%20\%20Outrun.md) - [plain](/playlists/plain/37i9dQZF1DXdLEN7aqioXM) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdLEN7aqioXM))
 
 ### [RetroWave \ Outrun](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM)
 

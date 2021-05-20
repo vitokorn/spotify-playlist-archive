@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Groove%20Theory.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1tW4VlEfDSS) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1tW4VlEfDSS))
+[pretty](/playlists/pretty/Groove%20Theory.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tW4VlEfDSS) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1tW4VlEfDSS))
 
 ### [Groove Theory](https://open.spotify.com/playlist/37i9dQZF1DX1tW4VlEfDSS)
 

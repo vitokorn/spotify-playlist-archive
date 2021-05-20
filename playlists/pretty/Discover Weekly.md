@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Discover%20Weekly.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcERLiUqU2pJX) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcERLiUqU2pJX))
+pretty - [cumulative](/playlists/cumulative/Discover%20Weekly.md) - [plain](/playlists/plain/37i9dQZEVXcERLiUqU2pJX) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcERLiUqU2pJX))
 
 ### [Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcERLiUqU2pJX)
 

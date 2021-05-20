@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/New%20UK%20Garage.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6MNYaY0PcFh) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6MNYaY0PcFh))
+pretty - [cumulative](/playlists/cumulative/New%20UK%20Garage.md) - [plain](/playlists/plain/37i9dQZF1DX6MNYaY0PcFh) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6MNYaY0PcFh))
 
 ### [New UK Garage](https://open.spotify.com/playlist/37i9dQZF1DX6MNYaY0PcFh)
 

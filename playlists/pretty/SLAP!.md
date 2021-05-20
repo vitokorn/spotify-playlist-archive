@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/SLAP!.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX97SIuADeA1Y) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX97SIuADeA1Y))
+pretty - [cumulative](/playlists/cumulative/SLAP!.md) - [plain](/playlists/plain/37i9dQZF1DX97SIuADeA1Y) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX97SIuADeA1Y))
 
 ### [SLAP!](https://open.spotify.com/playlist/37i9dQZF1DX97SIuADeA1Y)
 

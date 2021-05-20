@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Sunny%20Mix.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVlm7xgnWdvJ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVlm7xgnWdvJ))
+pretty - [cumulative](/playlists/cumulative/Sunny%20Mix.md) - [plain](/playlists/plain/37i9dQZF1DWVlm7xgnWdvJ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVlm7xgnWdvJ))
 
 ### [Sunny Mix](https://open.spotify.com/playlist/37i9dQZF1DWVlm7xgnWdvJ)
 

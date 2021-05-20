@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Release%20Radar.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbsudmxBFKW7G) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbsudmxBFKW7G))
+pretty - [cumulative](/playlists/cumulative/Release%20Radar.md) - [plain](/playlists/plain/37i9dQZEVXbsudmxBFKW7G) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbsudmxBFKW7G))
 
 ### [Release Radar](https://open.spotify.com/playlist/37i9dQZEVXbsudmxBFKW7G)
 

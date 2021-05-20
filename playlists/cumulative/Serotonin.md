@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Serotonin.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYMroOc5KTTh) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYMroOc5KTTh))
+[pretty](/playlists/pretty/Serotonin.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYMroOc5KTTh) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYMroOc5KTTh))
 
 ### [Serotonin](https://open.spotify.com/playlist/37i9dQZF1DWYMroOc5KTTh)
 

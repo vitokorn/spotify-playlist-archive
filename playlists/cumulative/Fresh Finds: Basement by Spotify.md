@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Fresh%20Finds:%20Basement%20by%20Spotify.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5hADCd18xPlIiW54ot9Es3) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5hADCd18xPlIiW54ot9Es3))
+[pretty](/playlists/pretty/Fresh%20Finds:%20Basement%20by%20Spotify.md) - cumulative - [plain](/playlists/plain/5hADCd18xPlIiW54ot9Es3) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/5hADCd18xPlIiW54ot9Es3))
 
 ### [Fresh Finds: Basement by Spotify](https://open.spotify.com/playlist/5hADCd18xPlIiW54ot9Es3)
 

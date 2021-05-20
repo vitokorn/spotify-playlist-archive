@@ -1,4 +1,4 @@
-[pretty](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/pretty/Noises%20After%20Dark.md) - cumulative - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4fxf4OrMhXb) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4fxf4OrMhXb))
+[pretty](/playlists/pretty/Noises%20After%20Dark.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4fxf4OrMhXb) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4fxf4OrMhXb))
 
 ### [Noises After Dark](https://open.spotify.com/playlist/37i9dQZF1DX4fxf4OrMhXb)
 

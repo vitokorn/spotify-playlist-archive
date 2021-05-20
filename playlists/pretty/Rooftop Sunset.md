@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/cumulative/Rooftop%20Sunset.md) - [plain](https://github.com/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX572PAi3rtlM) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX572PAi3rtlM))
+pretty - [cumulative](/playlists/cumulative/Rooftop%20Sunset.md) - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX572PAi3rtlM))
 
 ### [Rooftop Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
