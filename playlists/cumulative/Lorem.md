@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> 💘Willow💘 adds blink, MCR, avril, cudi and the anxiety to Lorem this week
+> olivia rodrigo really said never break a pisces heart 👏
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [If I Get To Meet You](https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:02 | 2021-03-17 |  |
 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-03-17 | 2021-04-16 |
 | [Jacknife](https://open.spotify.com/track/6qZIy961yxJZpFkgsq8Vm2) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Smile More](https://open.spotify.com/album/3kybax0X96QAkAWWeoGO54) | 2:43 | 2021-03-17 |  |
+| [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2021-05-22 |  |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2021-03-26 |  |
 | [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:56 | 2021-03-17 |  |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2021-03-17 | 2021-04-02 |
