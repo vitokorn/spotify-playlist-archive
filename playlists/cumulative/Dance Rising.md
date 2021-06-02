@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Elohim & Big Freedia.
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Channel Tres.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Spicy (feat. Ginger) - Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy (feat. Ginger) [Edit]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-06-01 |  |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-06-01 |  |
 | [stop](https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [stop](https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw) | 3:18 | 2021-06-01 |  |
-| [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2021-06-01 |  |
+| [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2021-06-01 | 2021-06-02 |
 | [Take Control](https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Take Control](https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7) | 2:47 | 2021-06-01 |  |
 | [Take Me There](https://open.spotify.com/track/3mEi09VpHbOYRMZDRAMzp2) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [GVN](https://open.spotify.com/artist/1h4mpX9KJXJXoBlpAM6yqN) | [Take Me There](https://open.spotify.com/album/4fNiMdeXACKjTPZbhcXC2W) | 3:19 | 2021-06-01 |  |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-06-01 |  |
