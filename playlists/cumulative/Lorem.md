@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> is it just us or is music thriving rn  cover: Cavetown
+> is it just us or is music thriving rn  cover: Tkay Maidza
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [OOZ](https://open.spotify.com/track/02SS3PqtrKPZpWnTtyTFaN) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [OOZ](https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo) | 4:29 | 2021-03-17 | 2021-05-19 |
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-06-11 |  |
 | [Overdrive](https://open.spotify.com/track/5zexuTIZGttwZbj5PM1ztp) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Overdrive](https://open.spotify.com/album/45JxkluYypAMbmM2nH94C6) | 3:16 | 2021-03-17 | 2021-05-15 |
+| [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-18 |  |
 | [Palms (with Channel Tres)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms (with Channel Tres)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-04-08 |  |
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-03-17 |  |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-03-17 | 2021-06-04 |
