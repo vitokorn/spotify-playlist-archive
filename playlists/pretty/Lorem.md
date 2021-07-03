@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> crushing on the heartbreak bops this week, u? 💘 cover: Claire Rosinkranz
+> crushing on the breakup bops this week, u? 💘 cover: Claire Rosinkranz
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

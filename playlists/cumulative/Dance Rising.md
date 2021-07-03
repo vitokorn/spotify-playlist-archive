@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Pinkpantheress.
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with PinkPantheress.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
