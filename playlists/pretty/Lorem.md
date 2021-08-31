@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems you can send to friends. next up: THE BLOSSOM
+> melodic gems u can send to friends. nostalgic for the diy days of the burned cd. pinkpantheress ❤️‍🔥
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
