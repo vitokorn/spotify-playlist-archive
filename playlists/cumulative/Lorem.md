@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems u can send to friends ft girl in red's take on "stay"
+> melodic gems u can send to friends. ft girl in red's take on "stay"
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
