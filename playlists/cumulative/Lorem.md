@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> TONIGHT: DL the greenroom app and join dev lemons & max motley to talk about music & life on the new lorem show
+> tonight @9pET: DL the greenroom app and join glaive, ericdoa, dev lemons, & max motley on the new lorem show
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
