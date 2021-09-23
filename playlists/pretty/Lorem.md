@@ -2,7 +2,9 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems u can send to friends. cover: girl in red
+> Listen in to <a href="https://spotifygr.link/loremlife/">Lorem Life on Spotify Greenroom</a> tonight at 9pm ET as Max & Dev chat with Magdalena Bay! Cover: girl in red
+
+
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
