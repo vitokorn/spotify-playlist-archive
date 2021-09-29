@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> CAUGHT A VIIIIIBE BABY ARE U COMING FOR THE RIIIIIIDE????! cover: carwash
+> Listen in to <a href="https://spotifygr.link/lorem-life">Lorem Life</a> this week on Greenroom as Max and Dev interview Blu DeTiger. Every Wednesday at 9pm EST. 
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
@@ -27,6 +27,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-09-17 |  |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-15 |  |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-17 | 2021-03-19 |
+| [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-09-29 |  |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2021-08-27 |
 | [Apartment 402](https://open.spotify.com/track/4HHa6HZxKsgTLldpwQPs4D) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:25 | 2021-04-30 | 2021-06-04 |
 | [are you?](https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [are you?](https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb) | 3:17 | 2021-07-23 |  |
@@ -325,6 +326,7 @@
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2021-03-17 | 2021-06-04 |
 | [Pity Party](https://open.spotify.com/track/1y6TgrTu3KuIgBQtuvEBf2) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/65tgtb3bmFjIhWgDY0W6PN) | 1:31 | 2021-04-27 | 2021-07-31 |
 | [Polly](https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Polly](https://open.spotify.com/album/43VnVc6hkCYOjFPgzWPgyt) | 2:42 | 2021-05-27 |  |
+| [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-09-29 |  |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-03-25 | 2021-04-02 |
 | [Pretty Girl hi!](https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Pretty Girl hi!](https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV) | 1:52 | 2021-03-17 | 2021-05-15 |
 | [Prom Night](https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/4igkg9FFor8cs1FWNhCNXR) | 2:25 | 2021-03-30 |  |
@@ -341,6 +343,7 @@
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-05 |  |
 | [Rockstar](https://open.spotify.com/track/4ui2HoMD04KdlWjsTM343e) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/7CpHZgBT4UFz8eJWr659KU) | 3:28 | 2021-03-17 | 2021-04-02 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-03-17 | 2021-06-04 |
+| [rom com 2021](https://open.spotify.com/track/01y5BLAsXWirQHZdWluxM0) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [rom com 2021](https://open.spotify.com/album/5Gv1svMbcxpoiYwJrxJUaC) | 3:16 | 2021-09-29 |  |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-03-17 | 2021-06-04 |
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-06-25 |  |
 | [running in place](https://open.spotify.com/track/3hRD7U3XdIgbtNDnkjjZD4) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/58cat50oNLtyzugNTRQMUe) | 2:45 | 2021-04-23 | 2021-06-04 |
