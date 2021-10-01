@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Listen in to <a href="https://spotifygr.link/lorem-life">Lorem Life</a> this week on Greenroom as Max and Dev interview Blu DeTiger. Every Wednesday at 9pm EST. 
+> melodic gems you can send to friends. cover: carwarsh
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
