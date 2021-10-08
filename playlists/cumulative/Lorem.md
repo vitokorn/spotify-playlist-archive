@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Listen in to <a href="https://spotifygr.link/loremlife">Lorem Live w/ Max & Dev</a> tonight at 9pm EST on Spotify Greenroom. Cover: carwarsh
+> melodic gems u can send to friends. Cover: Q
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
