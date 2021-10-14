@@ -8,6 +8,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-09-24 |  |
+| [2023](https://open.spotify.com/track/6zIycyd4Fp0pJ7zmLmmO2I) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [2023](https://open.spotify.com/album/3hvl1jHmHMJjTHOAyCuucv) | 2:30 | 2021-10-14 |  |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2021-03-17 | 2021-05-19 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-03-17 |  |
 | [4ever](https://open.spotify.com/track/1UgaioSUNBZQ5xyCiAhfAU) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:41 | 2021-07-16 |  |
