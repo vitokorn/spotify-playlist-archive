@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> IT'S REMI WOLF DAY 
+> glad u made it here. enjoy the music. cover: Remi Wolf
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
