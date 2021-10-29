@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> glad u made it here. enjoy the music. cover: Remi Wolf
+> glad u made it here. enjoy the music. cover: Christian Leave
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
@@ -40,6 +40,7 @@
 | [Assignment Song](https://open.spotify.com/track/7H6AsxHIdLMI67idvxldl0) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Assignment Song](https://open.spotify.com/album/1taf11KZqMV6DYvp9uqTr8) | 3:42 | 2021-08-26 | 2021-08-27 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-04-23 |  |
 | [Back to the Start](https://open.spotify.com/track/1ErY5BBTlfFVnewSQ4rwKY) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/1CyBZOTLfg7xpqI72HbGS9) | 3:23 | 2021-03-17 | 2021-04-16 |
+| [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-29 |  |
 | [Backwards](https://open.spotify.com/track/3HL4n8vCeCyYLxogqkUxup) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Backwards](https://open.spotify.com/album/67buolBsDm0XkJikkqZRxv) | 2:53 | 2021-03-17 | 2021-03-31 |
 | [Bad Texter](https://open.spotify.com/track/7rymj8PopRWOI2kBdjPG9q) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Bad Texter](https://open.spotify.com/album/5OwoxFVxLosVA4O8uqAAfb) | 3:13 | 2021-03-17 | 2021-06-04 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-29 | 2021-07-31 |
@@ -64,6 +65,7 @@
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2021-07-01 | 2021-08-13 |
 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2021-03-26 | 2021-06-04 |
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-16 |  |
+| [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-29 |  |
 | [Break it off](https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Break it off](https://open.spotify.com/album/2qT1ltrbTlrUi5F7uMFPHz) | 1:33 | 2021-04-07 |  |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-03-17 | 2021-04-02 |
 | [Bunk Beds](https://open.spotify.com/track/4T8OtUOyImRoxbkLnFdHje) | [Dori Valentine](https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w) | [Bunk Beds](https://open.spotify.com/album/1FZR1HvpKtzW47Wl5JQbXr) | 2:46 | 2021-03-17 | 2021-04-16 |
@@ -107,6 +109,7 @@
 | [Dancing in My Room](https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/0dwXkSf1hMjZgqKUkeoR4l) | 3:00 | 2021-03-17 |  |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2021-10-15 |  |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 |  |
+| [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-10-29 |  |
 | [daytime](https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:39 | 2021-07-09 |  |
 | [dead end](https://open.spotify.com/track/2r6Z8DzXopRlfPfFPHSLes) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5q9MyQau8ZpBMOwtg00IZu) | 2:20 | 2021-04-28 | 2021-06-04 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-09 | 2021-05-19 |
@@ -255,6 +258,7 @@
 | [Kyoto (The Marías Remix)](https://open.spotify.com/track/4N4y5krXgvSSGBktqHCdpx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Kyoto (The Marías Remix)](https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf) | 3:38 | 2021-08-20 |  |
 | [Kyoto - Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2021-03-17 | 2021-03-19 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-06-04 | 2021-06-11 |
+| [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-29 |  |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2021-03-17 | 2021-06-04 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-04 |  |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-25 | 2021-06-24 |
