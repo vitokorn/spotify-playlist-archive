@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/Dance%20Rising.md) - [plain](/playli
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Qrion.
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Joshwa.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
-| 2 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 |
+| 1 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 |
+| 2 | [Off Limits](https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Off Limits](https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF) | 2:37 |
 | 3 | [It Ain't Right](https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [It Ain't Right](https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31) | 3:28 |
-| 4 | [Off Limits](https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Off Limits](https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF) | 2:37 |
+| 4 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
 | 5 | [Isolator](https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Isolator](https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA) | 4:03 |
 | 6 | [All Over U](https://open.spotify.com/track/0IVi2eh3bjsKAX4orriJsi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All Over U](https://open.spotify.com/album/02D8opkfiKNVET7BVsMFCV) | 3:08 |
 | 7 | [On My Mind (with JC Stewart)](https://open.spotify.com/track/3MVrUfY3fYjR1kIK1wvbHN) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [On My Mind (with JC Stewart)](https://open.spotify.com/album/2n2AO8yhagI3Rj3hwvfnIC) | 2:59 |
