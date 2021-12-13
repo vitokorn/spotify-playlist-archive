@@ -95,32 +95,36 @@ class Spotify:
         await asyncio.sleep(0)
 
     async def get_playlist(self, playlist_id):
-        playlist_href = self._get_playlist_href(playlist_id)
-        async with self._session.get(playlist_href) as response:
-            data = await response.json(content_type=None)
-        logger.warning("Data 101: {}".format(data))
-        error = data.get("error")
-        if error:
-            if error.get("status") == 401:
-                raise InvalidAccessTokenError
-            elif error.get("status") == 403:
-                raise PrivatePlaylistError
-            elif error.get("status") == 404:
-                raise InvalidPlaylistError
-            else:
-                raise Exception("Failed to get playlist: {}".format(error))
+        logger.warning("playlist_id 98: {}".format(playlist_id))
+        if not playlist_id:
+            pass
+        else:
+            playlist_href = self._get_playlist_href(playlist_id)
+            async with self._session.get(playlist_href) as response:
+                data = await response.json(content_type=None)
+            logger.warning("Data 101: {}".format(data))
+            error = data.get("error")
+            if error:
+                if error.get("status") == 401:
+                    raise InvalidAccessTokenError
+                elif error.get("status") == 403:
+                    raise PrivatePlaylistError
+                elif error.get("status") == 404:
+                    raise InvalidPlaylistError
+                else:
+                    raise Exception("Failed to get playlist: {}".format(error))
 
-        url = self._get_url(data["external_urls"])
+            url = self._get_url(data["external_urls"])
 
-        # Playlist names can't have "/" or "\" so use " " instead
-        name = data["name"].replace("/", " ").replace("\\", " ").replace(":", " -").replace("|", "-").replace("?", "").strip(" .")
+            # Playlist names can't have "/" or "\" so use " " instead
+            name = data["name"].replace("/", " ").replace("\\", " ").replace(":", " -").replace("|", "-").replace("?", "").strip(" .")
 
-        if not name:
-            raise Exception(f"Empty playlist name: {playlist_id}")
+            if not name:
+                raise Exception(f"Empty playlist name: {playlist_id}")
 
-        description = data["description"]
-        tracks = await self._get_tracks(playlist_id)
-        return Playlist(url=url, name=name, description=description, tracks=tracks)
+            description = data["description"]
+            tracks = await self._get_tracks(playlist_id)
+            return Playlist(url=url, name=name, description=description, tracks=tracks)
 
     async def _get_tracks(self, playlist_id):
         tracks = []
