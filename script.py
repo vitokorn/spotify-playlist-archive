@@ -112,7 +112,8 @@ class Spotify:
                 elif error.get("status") == 404:
                     raise InvalidPlaylistError
                 else:
-                    raise Exception("Failed to get playlist: {}".format(error))
+                    return None
+                    # raise Exception("Failed to get playlist: {}".format(error))
 
             url = self._get_url(data["external_urls"])
 
@@ -524,7 +525,7 @@ async def update_files_impl(now, spotify):
     for ignored in ignored_list:
         if ignored in playlist_ids:
             ignored_path = "{}/{}".format(plain_dir, ignored)
-            print (ignored)
+            print(ignored)
             try:
                 test = await spotify.get_playlist(ignored)
             except:
@@ -552,6 +553,8 @@ async def update_files_impl(now, spotify):
                     except InvalidPlaylistError:
                         print("Removing invalid playlist: {}".format(playlist_id))
                         os.remove(plain_path)
+                    except:
+                        pass
                     else:
                         readme_lines.append(
                             "- [{}]({})".format(
