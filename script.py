@@ -98,7 +98,7 @@ class Spotify:
         playlist_href = self._get_playlist_href(playlist_id)
         async with self._session.get(playlist_href) as response:
             data = await response.json(content_type=None)
-
+        logger.warning("Data 101: {}".format(data))
         error = data.get("error")
         if error:
             if error.get("status") == 401:
