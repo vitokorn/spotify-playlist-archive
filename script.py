@@ -191,6 +191,7 @@ class Spotify:
     def _get_playlist_href(cls, playlist_id):
         rest = "{}?fields=external_urls,name,description"
         template = cls.BASE_URL + rest
+        logger.warning("template 195: {}".format(template))
         return template.format(playlist_id)
 
     @classmethod
