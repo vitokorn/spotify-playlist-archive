@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> revisiting the best songs of the year, and new favorites. cover: Dora Jar
+> Listen in to <a href="https://spotifygr.link/loremlife">Lorem Live w/ Max & Dev</a> tonight ft SPILL TAB, MARINELLI, & MAZIE at 9pm EST on Spotify Greenroom.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Pity Party](https://open.spotify.com/track/1y6TgrTu3KuIgBQtuvEBf2) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/65tgtb3bmFjIhWgDY0W6PN) | 1:31 | 2021-04-27 | 2021-07-31 |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2021-12-04 |  |
 | [Polly](https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Polly](https://open.spotify.com/album/43VnVc6hkCYOjFPgzWPgyt) | 2:42 | 2021-05-27 | 2021-11-13 |
+| [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-16 |  |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-09-29 |  |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-19 |  |
 | [Pretty](https://open.spotify.com/track/1T1TcV3ibZZ5OO9cHJLI6M) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [Pretty](https://open.spotify.com/album/6Z5oqM3wk1Xe8ZOeLv03Hc) | 3:10 | 2021-11-13 |  |
