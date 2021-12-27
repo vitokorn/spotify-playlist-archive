@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Shygirl
+> The home for alternative electronic music. Cover: Fred again..
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Beul Un Latha](https://open.spotify.com/track/3xyGdYlQHEvTB9dQqErrF5) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Beul Un Latha](https://open.spotify.com/album/33aIxvWUZEkt5y6bHRGrqA) | 5:22 | 2021-01-21 | 2021-02-05 |
 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 | 2021-07-09 | 2021-08-27 |
 | [BIAS JAPAN](https://open.spotify.com/track/6tXqraW4sHtYfRLf7LxwOZ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [BIAS JAPAN](https://open.spotify.com/album/01wjKq0XG0YoExbt57TgEH) | 5:15 | 2021-10-15 |  |
+| [Billie (Loving Arms)](https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 (February 2 - October 15 2021)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:37 | 2021-12-27 |  |
 | [Billie (Loving Arms)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie (Loving Arms)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2021-09-01 | 2021-10-29 |
 | [BIPP - Autechre Mx](https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [BIPP (Autechre Mx)](https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk) | 3:33 | 2021-01-21 | 2021-03-26 |
 | [Birthday / The Pain](https://open.spotify.com/track/4LNWwDQY9IcdbzsEEvPXgD) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Birthday / The Pain](https://open.spotify.com/album/7HOtgrwxKVTEm7lUmCpXYl) | 5:52 | 2021-02-12 | 2021-03-26 |
@@ -254,7 +255,8 @@
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-01-21 | 2021-03-12 |
 | [Grape Surgery](https://open.spotify.com/track/7by9iKOeoVvQUxljHtJ7c2) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Grape Surgery // Big Balenci](https://open.spotify.com/album/3GIl8fweKfDRJkMAHiidtp) | 3:58 | 2021-04-10 | 2021-04-16 |
 | [Groove La Afrika](https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul on Ice EP PT1](https://open.spotify.com/album/0EyIginK61lxZJEkODvC9w) | 2:49 | 2021-04-02 | 2021-06-18 |
-| [Hannah (The Sun)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah (The Sun)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-14 |  |
+| [Hannah (The Sun)](https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 (February 2 - October 15 2021)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:16 | 2021-12-27 |  |
+| [Hannah (The Sun)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah (The Sun)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-14 | 2021-12-27 |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-09-24 | 2021-11-19 |
 | [Haunted](https://open.spotify.com/track/6cm0CsFVU8QTLTVegPgHDm) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Haunted](https://open.spotify.com/album/7jGjzC6P9754JS5UVKWifW) | 4:16 | 2021-01-21 | 2021-02-26 |
 | [Hawk](https://open.spotify.com/track/2FVKaO3yQBbqE9vNxcYxmR) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:59 | 2021-04-10 | 2021-04-16 |
@@ -317,7 +319,7 @@
 | [Just for the Times](https://open.spotify.com/track/67LyilCFvsLvoC7zEBPcKK) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Just for the Times](https://open.spotify.com/album/3NPApmy06Q3QMZ5Es2SpBe) | 3:25 | 2021-03-05 | 2021-06-25 |
 | [Just Us - Radio Edit](https://open.spotify.com/track/63GyZaNNNigHM47t7eaGzA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0sRdvqJBu6iFNtwaW7ORIk) | 3:35 | 2021-02-12 | 2021-04-02 |
 | [Justafeelin](https://open.spotify.com/track/4hLZY8QdX6Ef1YmpflYF7x) | [TWOGOOD](https://open.spotify.com/artist/0734HdQDEd3Mc0olQ4DsCt) | [Justafeelin](https://open.spotify.com/album/54dW8Gijw6dq1h7cC0191D) | 4:27 | 2021-01-21 | 2021-02-12 |
-| [Kahan (Last Year)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan (Last Year)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-19 |  |
+| [Kahan (Last Year)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan (Last Year)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-19 | 2021-12-27 |
 | [Keep Moving - The Blessed Madonna remix / Edit](https://open.spotify.com/track/7wrW0eAXIEcKF6tgUXYNa7) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Keep Moving (The Blessed Madonna remix)](https://open.spotify.com/album/6uuDKdK6upPxiQtv1yHcHM) | 4:17 | 2021-04-30 | 2021-06-18 |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-03-26 | 2021-04-30 |
 | [Keep On Believing](https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3H2J52qEjLVYx2hgs26vkQ) | 4:34 | 2021-11-05 |  |
