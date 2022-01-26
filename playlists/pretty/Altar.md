@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Altar.md) - [plain](/playlists/plain
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
+| 1 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
 | 2 | [Are We Here? (30 Something) - Dusky Remix](https://open.spotify.com/track/4Jt4zH1bLXLeRFsdE859jb) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Are We Here? (30 Something) [Remixes]](https://open.spotify.com/album/1BaqR0H9llOKtOGNUIN4Wc) | 5:48 |
 | 3 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
 | 4 | [Blackpool Boulevard - Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
