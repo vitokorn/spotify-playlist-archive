@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> some beautiful things this week. cover: tobias drayyyyyyyyyyy
+> tune into lorem greenroom  6pm PST WEDS FEB 2nd to chat w/ Rachel Chinouriri, Dev Lemonade & Max the Mostley. cover: tobias drayyyyyyyyyyy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-09-17 |  |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-15 | 2021-11-13 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-08 |  |
+| [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-02 |  |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-17 |  |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-09-29 | 2021-12-02 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2022-01-08 |
@@ -61,6 +62,7 @@
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-04-23 | 2021-07-31 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-16 | 2021-06-04 |
 | [BeVerly Hills BoYfRiEnd (with ROLE MODEL)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd (Remixes)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2021-03-17 | 2021-04-16 |
+| [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2022-02-02 |  |
 | [BKGW](https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [BKGW](https://open.spotify.com/album/71PQIAJKScktcU1JtaLfD8) | 2:49 | 2021-03-17 | 2021-04-02 |
 | [black & mild](https://open.spotify.com/track/2Act8nsW8aQI46PsLNgJJj) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [black & mild](https://open.spotify.com/album/0y5DaPOSdKruHy7iYUud12) | 2:16 | 2021-10-26 | 2022-01-08 |
 | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/track/5LtWRMwawTdOiARIY3VBP4) | [toastool](https://open.spotify.com/artist/5nABWe1FXsU9JYESQWznSm) | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/album/3s2f5GkgGRPzANMZXriRNz) | 4:21 | 2021-08-04 | 2021-10-06 |
@@ -332,6 +334,7 @@
 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 | 2021-08-20 | 2021-09-24 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-06-11 | 2021-06-17 |
 | [Light Year (feat. Lennon Stella)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year (feat. Lennon Stella)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-04-30 | 2021-06-04 |
+| [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-02 |  |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-02 | 2021-08-13 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-12-02 | 2022-01-08 |
 | [Limousine](https://open.spotify.com/track/3zL4FoSW5burOKQQkEqFPS) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:12 | 2021-12-02 | 2022-01-08 |
@@ -499,6 +502,7 @@
 | [Show Me Love - Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2022-01-08 |  |
 | [Show Up](https://open.spotify.com/track/6ouWFK1glsWeCC5C0uw2KR) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/2eCZIIngA9bPYRUoKxd29z) | 3:21 | 2021-06-04 | 2021-08-13 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/07dRjnkeSazozZ16S07Nee) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/7bM4yhCH6r8xR51DWPrj7s) | 2:44 | 2021-11-19 |  |
+| [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 | 2022-02-02 |  |
 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 | 2021-09-11 | 2021-12-02 |
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-03-17 |  |
 | [Sincerity Is Scary](https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:45 | 2021-04-16 | 2021-05-19 |
@@ -518,6 +522,7 @@
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2021-07-30 |  |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-08-05 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2021-11-13 |  |
+| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-02 |  |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2021-03-17 |  |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-08-13 |
 | [Solo](https://open.spotify.com/track/2chyIj1EahRcg0J7aalS5f) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Solo](https://open.spotify.com/album/6sa4IOjkUs5ppR6PTxvjR1) | 3:26 | 2021-07-02 | 2021-08-13 |
