@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> tune into lorem greenroom  6pm PST WEDS FEB 2nd to chat w/ Rachel Chinouriri, Dev Lemonade & Max the Mostley. cover: tobias drayyyyyyyyyyy
+> cover: tobias drayyyyyyyyyyy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-16 | 2021-12-02 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-29 | 2021-11-13 |
 | [Break it off](https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Break it off](https://open.spotify.com/album/2qT1ltrbTlrUi5F7uMFPHz) | 1:33 | 2021-04-07 | 2021-11-13 |
+| [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 |  |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-22 |  |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-03-17 | 2021-04-02 |
 | [Bunk Beds](https://open.spotify.com/track/4T8OtUOyImRoxbkLnFdHje) | [Dori Valentine](https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w) | [Bunk Beds](https://open.spotify.com/album/1FZR1HvpKtzW47Wl5JQbXr) | 2:46 | 2021-03-17 | 2021-04-16 |
@@ -166,6 +167,7 @@
 | [End of Days](https://open.spotify.com/track/3DI2uDfbIBrLPkHV9yxvVf) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [FUNNY BONE](https://open.spotify.com/album/4Urq1dEC7ZM94KoabRX3P2) | 2:46 | 2021-09-04 | 2021-10-06 |
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2021-03-17 | 2021-04-02 |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2021-06-11 | 2021-11-13 |
+| [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-04 |  |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-16 | 2021-07-23 |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-03-17 | 2021-05-15 |
 | [Everything (That Should Go)](https://open.spotify.com/track/7dhMdKFbUQC3IFCQt7LRQk) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Everything (That Should Go)](https://open.spotify.com/album/3UgCI9hh49Zce6uD2IYly8) | 3:21 | 2021-06-04 | 2021-06-11 |
@@ -232,6 +234,7 @@
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-08 | 2021-09-24 |
 | [GUM](https://open.spotify.com/track/7HO5QGBU5COHjt0o7Vz62R) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [GUM](https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU) | 3:33 | 2021-06-24 | 2021-11-13 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-19 | 2021-05-19 |
+| [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 |  |
 | [Halloween](https://open.spotify.com/track/6EPOKdXGMGI0Clx2P7afnC) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Halloween](https://open.spotify.com/album/5bP6MnAwsyaMh0bz1jNR3O) | 2:19 | 2021-03-17 | 2021-03-19 |
 | [Hangar](https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Hangar](https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g) | 2:55 | 2022-01-28 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-04 | 2022-01-08 |
@@ -354,6 +357,7 @@
 | [Lucy](https://open.spotify.com/track/0qqAx9YnwIEZ8y9OyTjZRc) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Lucy](https://open.spotify.com/album/16FvSGhewJJxkKi1Fy05oA) | 3:49 | 2021-03-17 | 2021-04-02 |
 | [lush](https://open.spotify.com/track/6dAwpRTPBCE8TROpbPcGcq) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [lush](https://open.spotify.com/album/5AR2QRVXS15Jry1KA9JLZH) | 4:27 | 2021-12-02 | 2022-01-22 |
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-12-02 |
+| [Makeup](https://open.spotify.com/track/2ciAYoCq1z4BboYNvGbnLH) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Makeup](https://open.spotify.com/album/2xT0Zibv3H6LhmGLFMjpZc) | 3:16 | 2022-02-04 |  |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2021-07-31 | 2021-11-13 |
 | [Man In The Night](https://open.spotify.com/track/6pyOi9gmnaXyFaML1oGzIJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Speedin' Bullet 2 Heaven](https://open.spotify.com/album/6e8pwYKSF9iZjpPep1DVzx) | 3:50 | 2021-05-15 | 2021-05-21 |
 | [Maniac](https://open.spotify.com/track/7DtR0hvbNoAPujh1d4KIxZ) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Nessence](https://open.spotify.com/artist/7a47reWLeNLY75npFCqa8N) | [Maniac](https://open.spotify.com/album/6vfC3c9jbVRkCFHbkYzsbJ) | 2:03 | 2021-09-20 | 2021-11-13 |
@@ -657,6 +661,7 @@
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-03-17 | 2021-06-04 |
 | [Your Life Your Time - Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time (Acoustic)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 | 2021-06-11 | 2021-11-13 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-03-17 |  |
+| [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 |  |
 | [Your Love 너의 사랑](https://open.spotify.com/track/5NgvQyEWxGxKcZkqIf6YQS) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Your Love 너의 사랑](https://open.spotify.com/album/1QpWw20dNbIjDISy39cNU7) | 3:57 | 2021-07-29 | 2021-09-08 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 | 2021-08-13 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-03-17 | 2021-11-13 |
