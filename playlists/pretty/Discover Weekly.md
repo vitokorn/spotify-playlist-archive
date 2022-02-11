@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Discover%20Weekly.md) - [plain](/pla
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jessica](https://open.spotify.com/track/41H2fON7xrNirxSmbEgPVR) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Jessica](https://open.spotify.com/album/4BCnp2BEpkmSlMPfu2pJS2) | 3:21 |
+| 1 | [Jessica (feat. LILO LI)](https://open.spotify.com/track/41H2fON7xrNirxSmbEgPVR) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [LILO LI](https://open.spotify.com/artist/39clKYxsPkQCMRc7iFgRIh) | [Jessica (feat. LILO LI)](https://open.spotify.com/album/4BCnp2BEpkmSlMPfu2pJS2) | 3:21 |
 | 2 | [Alfa - Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 |
 | 3 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
 | 4 | [Chill](https://open.spotify.com/track/4t3zND2NBIdyNPWAy9lSiz) | [Simen Sez](https://open.spotify.com/artist/2OLVQywxCnwrsPqSgYACuA), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Chill](https://open.spotify.com/album/52EDks7Qd9MINKqTWh6ZYm) | 3:04 |
