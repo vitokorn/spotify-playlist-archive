@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> songs you can escape to. cover: dora jar
+> songs to fall in love with. cover: dora jar
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Adam's Song](https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8) | [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 4:09 | 2021-05-15 | 2021-05-21 |
 | [Adore You](https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Adore You](https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK) | 3:12 | 2021-12-10 | 2022-01-08 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-26 | 2022-01-08 |
+| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-09 |  |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-03-17 | 2021-12-02 |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-12-02 | 2022-01-08 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-26 | 2021-06-04 |
@@ -44,6 +45,7 @@
 | [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-02 |  |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-17 | 2022-02-12 |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-09-29 | 2021-12-02 |
+| [Anybody Else](https://open.spotify.com/track/4fItn7RxUvHIJloefw56DS) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Anybody Else](https://open.spotify.com/album/6b2sqlXepZzriu8shzsIjh) | 4:10 | 2022-03-09 |  |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2022-01-08 |
 | [Apartment 402](https://open.spotify.com/track/4HHa6HZxKsgTLldpwQPs4D) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:25 | 2021-04-30 | 2021-06-04 |
 | [ARE YOU LETTING GO? (feat. BENEE)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? (feat. BENEE)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-22 | 2022-02-25 |
@@ -191,6 +193,7 @@
 | [Everything (That Should Go)](https://open.spotify.com/track/7dhMdKFbUQC3IFCQt7LRQk) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Everything (That Should Go)](https://open.spotify.com/album/3UgCI9hh49Zce6uD2IYly8) | 3:21 | 2021-06-04 | 2021-06-11 |
 | [Everything Is Quiet](https://open.spotify.com/track/4oSKJkY3P8XOsxliqvn0cy) | [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [Everything Is Quiet](https://open.spotify.com/album/53aANm9TyGbUrk3ZN6l6xL) | 4:13 | 2021-06-04 | 2021-06-11 |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-03-17 | 2021-04-15 |
+| [Everytime - Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime - Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-09 |  |
 | [Everywhere](https://open.spotify.com/track/5TKgmsPfKm135sTK968bNe) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Everywhere](https://open.spotify.com/album/6nMQFSM4DhrDAadq6CWm2h) | 2:43 | 2021-10-22 | 2021-12-02 |
 | [Excuses](https://open.spotify.com/track/4b64vOfZptiujHdsqjbfoD) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Excuses](https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO) | 2:48 | 2021-04-09 | 2021-07-31 |
 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 | 2022-01-08 |  |
