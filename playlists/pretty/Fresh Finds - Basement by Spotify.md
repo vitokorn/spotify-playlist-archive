@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20-%20Basement%20by%20
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OVERDOSE](https://open.spotify.com/track/5mCQKS23y5o0tVjeLij9hx) | [Matveï](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/00bI8HTRtaQdlzJoc77MaR) | 2:33 |
+| 1 | [OVERDOSE](https://open.spotify.com/track/5mCQKS23y5o0tVjeLij9hx) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/00bI8HTRtaQdlzJoc77MaR) | 2:33 |
 | 2 | [Digital Love - Radio Edit](https://open.spotify.com/track/5cc5kVOILaChdXvvcYsAvW) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD) | [The Feel Good Ep](https://open.spotify.com/album/7yxnSYfNwphK42A6rrpYne) | 3:46 |
 | 3 | [Hypnotized](https://open.spotify.com/track/0IyYhV3YmH0do8nsRaH919) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Hypnotized EP](https://open.spotify.com/album/5Fx02RNnBLcFhSaxKyZW9H) | 2:44 |
 | 4 | [Some Day I Will](https://open.spotify.com/track/5IxCT70ElYRTxbkcx7nXRl) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [hawi](https://open.spotify.com/artist/26IMKo1iEaPH2g8UlfW1DG) | [Some Day I Will](https://open.spotify.com/album/5TRfUURPGPaoAl7lq7NB0W) | 3:25 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20-%20Basement%20by%20
 | 13 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 |
 | 14 | [Take Me - Varsity Star Remix](https://open.spotify.com/track/3PyZBjUy7ZmsiILkTVCDkR) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Varsity Star](https://open.spotify.com/artist/4EbSc50zkOhLL9lCWmop2T) | [Take Me (Varsity Star Remix)](https://open.spotify.com/album/2fZZUAfT4V4fVA5oCHd1cL) | 4:42 |
 | 15 | [clumsy](https://open.spotify.com/track/04Z4REi3Gqo4Quo5YChQyX) | [Superior.](https://open.spotify.com/artist/7pEsrpqEqGW75tMykKL03P), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [terrace sounds](https://open.spotify.com/album/1uEzFk67jToN8w0xLLTA5W) | 1:58 |
-| 16 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [Matveï](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 |
+| 16 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 |
 | 17 | [Make or Break](https://open.spotify.com/track/65X3Eszqv0tfOIeXfTuPbr) | [Future Cut](https://open.spotify.com/artist/4hgw5QFlcP98MQ6KJesQoh), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Make or Break](https://open.spotify.com/album/63WI21iEF2aeRQLTRu1uYb) | 3:25 |
 | 18 | [French Toast](https://open.spotify.com/track/2bRb4Vifd0dr35mcc6E5tk) | [DJ E-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Vintage Future II](https://open.spotify.com/album/4P5quqPPoxofBmPg9eYCN9) | 2:28 |
 | 19 | [Chachi](https://open.spotify.com/track/79F6Ae8dHw4ZD1B0e4J6Sx) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Chachi](https://open.spotify.com/album/4Iq7hmHymb16r57soHo2Iq) | 5:25 |
