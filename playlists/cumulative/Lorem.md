@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-09-24 | 2021-12-02 |
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-12-02 | 2022-02-12 |
+| [1999](https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:11 | 2022-03-26 |  |
 | [2023](https://open.spotify.com/track/6zIycyd4Fp0pJ7zmLmmO2I) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [2023](https://open.spotify.com/album/3hvl1jHmHMJjTHOAyCuucv) | 2:30 | 2021-10-14 | 2022-01-08 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2021-03-17 | 2021-05-19 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-03-17 | 2022-03-11 |
