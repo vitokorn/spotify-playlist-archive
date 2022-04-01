@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> pick a favorite ;) cover: rachel chinouriri
+> daydreaming, u? cover: flowerovlove
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-11 | 2022-03-18 |
 | [Beam](https://open.spotify.com/track/1IIw5oVR1xE4bzdl4JgGsc) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [It's Just Music](https://open.spotify.com/album/4fgQwJZr6I6TOLmKhffHlx) | 1:43 | 2021-03-17 | 2021-04-02 |
 | [Beam, Pt. 2 (feat. Jackboy)](https://open.spotify.com/track/5rX78TuBsOrCiYFkcwmNbw) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Beam, Pt. 2 (feat. Jackboy)](https://open.spotify.com/album/7xsy6ClgFJG4SJZI7LXxGA) | 2:00 | 2021-04-30 | 2021-08-13 |
+| [Beat of Love](https://open.spotify.com/track/4fYeD5iSFUr9HYoksZz5zi) | [Htet](https://open.spotify.com/artist/3LQ5d2MM3bji1JwvalqjDD) | [Beat of Love](https://open.spotify.com/album/7htJc2u70Cq3h03mZlDc1p) | 3:01 | 2022-04-01 |  |
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-03-17 | 2021-06-04 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-08-13 |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-21 |
@@ -378,6 +379,7 @@
 | [Kyoto - Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2021-03-17 | 2021-03-19 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-06-04 | 2021-06-11 |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-02-12 |  |
+| [Lady in the Darkest Hour](https://open.spotify.com/track/0vx0HNWpitK8Y5L53ZY1C1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lady in the Darkest Hour](https://open.spotify.com/album/7DuLlRk308fbnlPKEDqbUY) | 4:35 | 2022-04-01 |  |
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-29 | 2021-12-02 |
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-01-28 |  |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2021-03-17 | 2021-06-04 |
@@ -439,7 +441,7 @@
 | [minimal](https://open.spotify.com/track/28sNP4vXS6EtFr2VKPhCTQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [minimal](https://open.spotify.com/album/0Y6gjR6DUAx8K2IRbaWT0p) | 2:43 | 2021-06-24 | 2021-07-23 |
 | [Minnesota - MICHELLE Remix](https://open.spotify.com/track/3tMrAHdhYOCRSXsu3xLTmn) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [The Baby Reimagined](https://open.spotify.com/album/7MGuErisn7eWnGriy2iGbZ) | 2:22 | 2021-03-17 | 2021-03-19 |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-17 | 2021-12-02 |
-| [mona lisa - sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 | 2022-03-11 |  |
+| [mona lisa - sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 | 2022-03-11 | 2022-04-01 |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-08-19 | 2022-01-08 |
 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 | 2021-12-02 | 2022-01-08 |
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2021-08-24 | 2021-12-02 |
@@ -730,6 +732,7 @@
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-03-19 |  |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2022-01-15 | 2022-03-18 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2021-11-13 |
+| [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-01 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-03-17 | 2021-05-15 |
 | [Winona (with Jamila Woods and Vagabon)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona (with Jamila Woods and Vagabon)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-19 | 2021-11-19 |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-03-17 | 2021-08-19 |
@@ -758,3 +761,4 @@
 | [Your Love 너의 사랑](https://open.spotify.com/track/5NgvQyEWxGxKcZkqIf6YQS) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Your Love 너의 사랑](https://open.spotify.com/album/1QpWw20dNbIjDISy39cNU7) | 3:57 | 2021-07-29 | 2021-09-08 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 | 2021-08-13 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-03-17 | 2021-11-13 |
+| [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-04-01 |  |
