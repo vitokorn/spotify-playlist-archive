@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [Miss U](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
+| 1 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
 | 2 | [Riyadh At Twilight](https://open.spotify.com/track/07LMS3twElzbEjjYRCRTSX) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Elephant Rock](https://open.spotify.com/album/3ojPM8mSMz5UFkZvKNuah3) | 7:35 |
 | 3 | [porco rosso](https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL) | 3:39 |
 | 4 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
