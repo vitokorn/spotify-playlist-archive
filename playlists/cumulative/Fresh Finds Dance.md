@@ -6,12 +6,14 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [#1](https://open.spotify.com/track/4n444IdvaBuqO25rI51csX) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [#1](https://open.spotify.com/album/0abx1LKg4KUaO3Xdh1y5Az) | 5:17 | 2022-04-14 |  |
+| [#1](https://open.spotify.com/track/4n444IdvaBuqO25rI51csX) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [#1](https://open.spotify.com/album/0abx1LKg4KUaO3Xdh1y5Az) | 5:17 | 2022-04-14 | 2022-04-22 |
+| [#1](https://open.spotify.com/track/4n444IdvaBuqO25rI51csX) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [#1](https://open.spotify.com/album/0abx1LKg4KUaO3Xdh1y5Az) | 5:17 | 2022-04-22 |  |
 | [0000](https://open.spotify.com/track/00S3ASJHnjnyHgd9yAxyTL) | [Boa Boa](https://open.spotify.com/artist/5QIv1XuY6CCqRiPU4kXiHY) | [Ceres I](https://open.spotify.com/album/2Caf2d4gu1LUy5VroXxWk7) | 3:51 | 2022-04-08 |  |
 | [1-800-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1-800-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 | 2022-01-20 | 2022-01-27 |
 | [2 Time Loser](https://open.spotify.com/track/5Q1M66SiTELkqJ5Cee3rES) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [2 Time Loser](https://open.spotify.com/album/28VEg4uzHjbLvmRp435CrS) | 3:32 | 2022-03-03 | 2022-04-14 |
 | [5 Year Plan](https://open.spotify.com/track/0bD0ulkMDKS19lHLUGMMgh) | [Carbon Mass](https://open.spotify.com/artist/2PWtiOKyGeze2XKHILvf2L) | [5 Year Plan](https://open.spotify.com/album/4U2Hpv3GJIy3oikftBQCDy) | 4:53 | 2022-03-24 | 2022-04-08 |
-| [911 Turbo](https://open.spotify.com/track/5dAisc62FuZ7tkusErjk22) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [911 Turbo](https://open.spotify.com/album/6cYxHnm7wpcJsSuaXraBHW) | 3:54 | 2022-03-18 |  |
+| [911 Turbo](https://open.spotify.com/track/5dAisc62FuZ7tkusErjk22) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [911 Turbo](https://open.spotify.com/album/6cYxHnm7wpcJsSuaXraBHW) | 3:54 | 2022-03-18 | 2022-04-22 |
+| [911 Turbo](https://open.spotify.com/track/5dAisc62FuZ7tkusErjk22) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [911 Turbo](https://open.spotify.com/album/6cYxHnm7wpcJsSuaXraBHW) | 3:54 | 2022-04-22 |  |
 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 | 2022-02-03 | 2022-03-24 |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-18 |  |
 | [After Dark](https://open.spotify.com/track/6G1IrTkzUVoOpqSXJc1vHp) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [After Dark](https://open.spotify.com/album/25omZWS8fIvuDmdnvx1akR) | 3:15 | 2022-02-24 |  |
