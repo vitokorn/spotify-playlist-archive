@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> whats ur name girl whats ur sign ft UMI
+> Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life w/ Max & Dev</a> w/ guests Devon Again & KiNG MALA this Weds @ 5pm PST 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
