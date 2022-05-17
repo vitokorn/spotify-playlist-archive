@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> tons of new music this week from ethel cain, remi wolf, aldn, and more. cover: aldn
+> Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life Live</a> w/ guest BEABADOOBEE this Weds @ 5pm EST. Cover: aldn
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
