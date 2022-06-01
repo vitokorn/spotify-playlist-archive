@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> now featuring tracks picked by Wet Leg ;) 
+> chat w/ <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Ethel Cain TODAY @5pm eastern on Lorem Live</a> w/ hosts max & dev. cover: wet leggies 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [black & mild](https://open.spotify.com/track/2Act8nsW8aQI46PsLNgJJj) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [black & mild](https://open.spotify.com/album/0y5DaPOSdKruHy7iYUud12) | 2:16 | 2021-10-26 | 2022-01-08 |
 | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/track/5LtWRMwawTdOiARIY3VBP4) | [toastool](https://open.spotify.com/artist/5nABWe1FXsU9JYESQWznSm) | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/album/3s2f5GkgGRPzANMZXriRNz) | 4:21 | 2021-08-04 | 2021-10-06 |
 | [blank slate](https://open.spotify.com/track/7EIiQFUmU8e6KFAid9L411) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [blank slate](https://open.spotify.com/album/5dBn4IzCllX9kFAU70SGnB) | 4:49 | 2021-06-04 | 2021-11-13 |
-| [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-15 |  |
+| [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-15 | 2022-06-01 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-06-11 | 2021-12-02 |
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2021-12-02 | 2022-02-25 |
 | [Blue](https://open.spotify.com/track/6w88YPVnnFgYOKC7Cg3XS4) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:20 | 2022-02-25 | 2022-05-06 |
@@ -645,6 +645,7 @@
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-03-17 | 2021-06-04 |
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-06-25 | 2022-01-08 |
 | [running in place](https://open.spotify.com/track/3hRD7U3XdIgbtNDnkjjZD4) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/58cat50oNLtyzugNTRQMUe) | 2:45 | 2021-04-23 | 2021-06-04 |
+| [Running Up That Hill (A Deal With God) - 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love (2018 Remaster)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-06-01 |  |
 | [Rusty](https://open.spotify.com/track/5KgTKKQCX9wP4YIfc4N94l) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Rusty](https://open.spotify.com/album/5h7xyNmVNAUzzt7OF6OF7O) | 2:54 | 2021-09-17 | 2021-12-02 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-26 | 2021-12-02 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 |  |
