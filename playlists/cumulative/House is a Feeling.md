@@ -2,7 +2,7 @@
 
 ### [House is a Feeling](https://open.spotify.com/playlist/37i9dQZF1DWXDvpUgU6QYl)
 
-> A groovy and soulful house collection. Cover: Melsen
+> #withALLrefugees - Cover: Alinka
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
