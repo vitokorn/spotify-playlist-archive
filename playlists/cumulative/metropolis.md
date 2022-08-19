@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [()vȯ)) ̷̨ʅ(۝ʅ(Ɵʅ():::()̵̳̗̊(Ɵʅ()vȯ)) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [()vȯ)) ̷̨ʅ(۝ʅ(Ɵʅ():::()̵̳̗̊(Ɵʅ()vȯ)) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2022-08-19 |  |
 | [(301)341-7207](https://open.spotify.com/track/4dACPlbh1LlNiSuUdaVEl1) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [(301)341-7207](https://open.spotify.com/album/3fgeFGJanCz8Fd50XPOCF7) | 2:16 | 2022-01-28 | 2022-02-11 |
 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2021-01-19 | 2021-04-03 |
 | [1995](https://open.spotify.com/track/2VClwPpZUCKuJEN9acH7nA) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Mercury](https://open.spotify.com/album/7LCvb7UtkTLBcQA45BwPIQ) | 3:55 | 2022-07-21 | 2022-07-23 |
@@ -713,7 +714,7 @@
 | [Shade](https://open.spotify.com/track/07HVC93z0Ea7zhntydwv8s) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5) | [Shade](https://open.spotify.com/album/6o4NpsnJZHtgRKVmLSKYVk) | 3:37 | 2022-03-25 | 2022-04-13 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2021-12-03 | 2022-01-14 |
 | [Shady](https://open.spotify.com/track/6MuqVtrSYOc2CQj65jv8JM) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Shady](https://open.spotify.com/album/45Xyp7bEpghpqDHM0fJZe1) | 3:24 | 2021-11-15 | 2022-04-19 |
-| [Shake](https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Shake](https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ) | 1:41 | 2022-08-12 |  |
+| [Shake](https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Shake](https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ) | 1:41 | 2022-08-12 | 2022-08-19 |
 | [Shallow Water](https://open.spotify.com/track/1GYLx5N1krkkvifDW8Iijn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shallow Water](https://open.spotify.com/album/5nN1w3mTySgI1rWt5hygdZ) | 4:41 | 2022-04-19 | 2022-07-24 |
 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 | 2022-06-27 | 2022-07-29 |
 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 | 2021-08-20 | 2021-08-21 |
