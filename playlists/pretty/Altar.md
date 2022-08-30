@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Altar.md) - [plain](/playlists/plain
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> Alternative electronic gems. Cover: George Fitzgerald
+> Alternative electronic gems. Cover: George FitzGerald
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
