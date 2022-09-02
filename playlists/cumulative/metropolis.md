@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Little Dragon
+> The essential indie dance, featuring Nosaj Thing
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Blood](https://open.spotify.com/track/6qGyxIijWIscsjxHLZBLhG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Blood](https://open.spotify.com/album/4IDiAoz7AJPidIn5Z2SIc4) | 2:41 | 2021-11-08 | 2022-02-08 |
 | [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 | 2022-07-29 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-02-10 | 2021-05-15 |
+| [Blue Hour](https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Blue Hour](https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn) | 3:31 | 2022-09-02 |  |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-04-08 | 2022-07-28 |
 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 | 2022-05-20 |  |
 | [Bobby](https://open.spotify.com/track/3jPsLB65rLfJuyOAl2YOEg) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Bobby](https://open.spotify.com/album/0ShISAju1MZD6VVHuX0RY8) | 2:48 | 2022-07-04 | 2022-07-25 |
@@ -616,7 +617,7 @@
 | [Only Love](https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Only Love (with Brijean)](https://open.spotify.com/album/4mQFKiJlHZ2Y8wzzvTNwt4) | 4:15 | 2022-02-05 | 2022-02-11 |
 | [Only One (feat. Njomza)](https://open.spotify.com/track/24daphaEeVUFT0vmE8Q2UT) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Only One (feat. Njomza)](https://open.spotify.com/album/0ntUQqBbByOqjQd703yM9D) | 2:59 | 2021-12-19 | 2021-12-20 |
 | [Only One](https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Angelica Bess](https://open.spotify.com/artist/0LueBt3QtEleKKPdnUKF5V) | [Only One](https://open.spotify.com/album/5xlkw1oEQuxQp4xWJ789CB) | 4:37 | 2021-10-10 | 2022-06-07 |
-| [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2021-06-22 |  |
+| [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2021-06-22 | 2022-09-02 |
 | [OOO](https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OOO](https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd) | 3:03 | 2021-10-11 | 2021-10-15 |
 | [Ooo La La](https://open.spotify.com/track/0avbGep1xxLYfWfkUlMiVK) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Ooo La La](https://open.spotify.com/album/6ygPmv9UkNIKQe9IlBDJC6) | 2:38 | 2022-06-09 | 2022-07-08 |
 | [OPEN](https://open.spotify.com/track/2nEAIFKGWsOoRBkVBRX5At) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [OPEN](https://open.spotify.com/album/2BpSUUBKxfuP62otma9nFl) | 3:27 | 2021-10-13 | 2021-10-14 |
