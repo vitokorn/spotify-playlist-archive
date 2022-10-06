@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Sinca, Artwork: Rewina Beshue.
+> The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Beltran, Artwork: Rewina Beshue.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 |
-| 2 | [I'm What U Need](https://open.spotify.com/track/0lgq2XsPsW6Mz5A3NuOVHY) | [Liam Doc](https://open.spotify.com/artist/0E4quFKqDI4EyQuYeZleNH) | [I'm What U Need](https://open.spotify.com/album/36vlfL7Y46KPwuy2NQdsz7) | 3:30 |
-| 3 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 |
-| 4 | [Push This Groove](https://open.spotify.com/track/6RXjdT5u1Giyi2oapeDQjw) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Push This Groove](https://open.spotify.com/album/5rhSg4tCHHiJPv2b26DS2l) | 5:52 |
+| 2 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 |
+| 3 | [Push This Groove](https://open.spotify.com/track/6RXjdT5u1Giyi2oapeDQjw) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Push This Groove](https://open.spotify.com/album/5rhSg4tCHHiJPv2b26DS2l) | 5:52 |
+| 4 | [I'm What U Need](https://open.spotify.com/track/0lgq2XsPsW6Mz5A3NuOVHY) | [Liam Doc](https://open.spotify.com/artist/0E4quFKqDI4EyQuYeZleNH) | [I'm What U Need](https://open.spotify.com/album/36vlfL7Y46KPwuy2NQdsz7) | 3:30 |
 | 5 | [Me Dad's A Truckie - Original Mix](https://open.spotify.com/track/6Viqdg3lxYehvGLHzvbx0v) | [Cut Snake](https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236) | [Me Dad's A Truckie](https://open.spotify.com/album/2X0s6gF2PDls3DZS6NXxXf) | 4:38 |
 | 6 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 |
 | 7 | [Frozen Time](https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg) | [Joseph Crime](https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G) | [Frozen Time](https://open.spotify.com/album/7adtype4aYgD15BCt98mB6) | 4:32 |
