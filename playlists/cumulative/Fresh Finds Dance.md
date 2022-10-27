@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Liam Doc. Artwork: Rewina Beshue.
+> The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Loco & Jam. Artwork: Rewina Beshue.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
