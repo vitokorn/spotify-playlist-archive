@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Mafro
+> The essential indie dance, featuring obli
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2021-01-19 | 2021-02-26 |
 | [Day Dreaming](https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Day Dreaming](https://open.spotify.com/album/4cZS7wksFqyCGblehHhhep) | 3:09 | 2021-01-19 | 2021-02-19 |
 | [De Tecidos](https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [self-care](https://open.spotify.com/album/3xTy5AFpBDL2qzWoZrNtgz) | 3:05 | 2021-08-20 | 2022-07-18 |
+| [Deeper](https://open.spotify.com/track/6BUzs4g1OvThxUalMhL6b8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Deeper](https://open.spotify.com/album/0u1EYKJoJFmrBziiziPjBH) | 3:49 | 2022-10-28 |  |
 | [Delicate Limbs (feat. serpentwithfeet)](https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K) | [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Delicate Limbs (feat. serpentwithfeet)](https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr) | 3:18 | 2021-01-19 | 2021-01-30 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-13 | 2022-07-23 |
 | [Disco Man - Hot Chip Remix](https://open.spotify.com/track/2n5HOpuWYtS7DeJGGURFhK) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Disco Man (Hot Chip Remix)](https://open.spotify.com/album/2JUeCvO4eODPZfh3SGbJCE) | 6:10 | 2021-05-01 | 2021-05-15 |
@@ -436,7 +437,6 @@
 | [In My Arms - Edit](https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In My Arms](https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb) | 3:45 | 2021-08-28 | 2022-07-20 |
 | [In My Arms - Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2022-07-29 | 2022-08-12 |
 | [In The Summer (feat. Jaymes Young)](https://open.spotify.com/track/0ooXt1AXI84i1j7jK7y9HE) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 3:49 | 2021-01-19 | 2021-04-13 |
-| [in your eyes](https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz](https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb) | 3:28 | 2022-10-27 |  |
 | [Inch Off The Earth](https://open.spotify.com/track/7CwAaS3gJk0UXWL6gbpsmV) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Inch Off The Earth](https://open.spotify.com/album/2lShWP8IyChQAr7zyh7aWW) | 2:51 | 2021-11-06 | 2022-02-10 |
 | [Indecisive (feat. Tommy Genesis)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive (feat. Tommy Genesis)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-14 | 2021-12-26 |
 | [Indica](https://open.spotify.com/track/0zQrFfwCXlrEX7bihjQygO) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Indica](https://open.spotify.com/album/0vO8Z1lJuZOQQaVXxduNn8) | 2:51 | 2021-05-21 | 2022-02-09 |
