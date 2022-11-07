@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you. cover: chappell roan
+> All the indescribable feelings that music gives you. cover: hemlocke springs
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 |  |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-19 | 2022-05-13 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-10 | 2022-04-29 |
-| [Chaise Longue - French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue (French Version)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-03 |  |
+| [Chaise Longue - French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue (French Version)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-03 | 2022-11-07 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-22 | 2022-10-12 |
 | [Chapstick](https://open.spotify.com/track/1YD4jJmvDZXgFBHYVa8jgz) | [Astrus*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR), [Wassup Rocker](https://open.spotify.com/artist/3FTVaiseJDY5xghhW0VcLC) | [Chapstick](https://open.spotify.com/album/0YIzL43tsCDq2lErTXBQ9z) | 3:01 | 2021-04-30 | 2021-07-31 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-07-29 | 2022-09-02 |
@@ -687,6 +687,7 @@
 | [Moonlight](https://open.spotify.com/track/0Uk3a9LakBQsRZPJo31fUm) | [Sweeney](https://open.spotify.com/artist/1wTMHGpzUEojchQsys1FyJ), [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Moonlight](https://open.spotify.com/album/3Tb3XyfcL0U1yTTVSJ47TT) | 2:51 | 2021-08-20 | 2021-11-13 |
 | [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 | 2022-03-05 | 2022-06-30 |
 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 | 2021-05-21 | 2022-01-22 |
+| [Morning in the Aves](https://open.spotify.com/track/6mWlah5Cxz8qTcW17pbj7h) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 4:02 | 2022-11-07 |  |
 | [Mother - Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2021-07-30 | 2021-08-13 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-03-05 | 2022-04-20 |
 | [Ms. Dramatic](https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:01 | 2022-07-29 | 2022-10-12 |
