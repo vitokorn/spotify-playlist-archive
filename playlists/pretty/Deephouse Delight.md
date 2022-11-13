@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Deephouse%20Delight.md) - [plain](/p
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Time To Smoke](https://open.spotify.com/track/0nXIRF7CP1a6pQocggvnDu) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/4CYp809RvpYL1gVuOvpfiV) | 8:46 |
+| 1 | [Time To Smoke](https://open.spotify.com/track/0yyjkRWv0FwNEDYiHZzJYn) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 8:46 |
 | 2 | [You - Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You (Edit)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 |
 | 3 | [Let Go](https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Let Go](https://open.spotify.com/album/0Z1WHrjtdt8oCjEQrgIf1e) | 3:44 |
 | 4 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
