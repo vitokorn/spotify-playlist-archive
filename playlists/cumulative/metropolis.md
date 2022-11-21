@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Krystal Klear
+> The essential indie dance, featuring Barry Can't Swim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
