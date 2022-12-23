@@ -2,7 +2,7 @@
 
 ### [Coffee Club](https://open.spotify.com/playlist/37i9dQZF1DX79UF7ALECl7)
 
-> Have some chill house with your coffee.
+> Have some chill house with your coffee
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Get Me High](https://open.spotify.com/track/5A1DoCrgkokAXVjbJHsiDG) | [Dennis Matser](https://open.spotify.com/artist/1aUsB0aq4gd71HM1V0Zsmc), [Jeremy Juno](https://open.spotify.com/artist/0Kf4hkaNodNPITQikAdlcB) | [Get Me High](https://open.spotify.com/album/3zUhPBIvP1YYTDkb4J8yim) | 6:00 | 2021-02-26 | 2021-03-09 |
 | [Good Life](https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Good Life](https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ) | 3:43 | 2021-01-19 |  |
 | [Got to Fall Out](https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:11 | 2021-01-19 |  |
+| [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2022-12-23 |  |
 | [Groove 32](https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Finds You Well](https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p) | 3:50 | 2021-02-05 |  |
 | [Guaraná](https://open.spotify.com/track/0GyEPB4AYdjbgD9Uk1pErp) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Guaraná](https://open.spotify.com/album/0p0pLBCZ3U5lhOljrHdWSx) | 5:17 | 2021-06-11 | 2022-06-30 |
 | [H.I.T.H - Perttu Remix](https://open.spotify.com/track/3G6ueaYUnbPD2NI1WkhPY0) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [H.I.T.H (Remixes)](https://open.spotify.com/album/3cTgVuW21yIGb4JeIldDCJ) | 4:52 | 2021-01-19 | 2021-02-09 |
