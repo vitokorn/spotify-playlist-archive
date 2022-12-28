@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you. cover: abby sage
+> All the indescribable feelings that music gives you, a #corecore paradise. cover: abby sage
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2021-12-02 | 2022-02-25 |
 | [Blue](https://open.spotify.com/track/6w88YPVnnFgYOKC7Cg3XS4) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:20 | 2022-02-25 | 2022-05-06 |
 | [Blue](https://open.spotify.com/track/2DAn1rYN2K7p3bhZL27bRe) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Blue](https://open.spotify.com/album/2fGioZ1Kmt9ijLfEh2zvJI) | 3:06 | 2021-07-16 | 2021-07-31 |
-| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 |  |
+| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 | 2022-12-28 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-06-30 | 2021-12-02 |
 | [Body Dysmorphia](https://open.spotify.com/track/3nSiyKdhc6euQaGDyW1UE1) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mulholland Drive](https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU) | 2:05 | 2021-12-02 | 2022-02-25 |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2021-05-15 | 2021-11-13 |
@@ -365,6 +365,7 @@
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-23 | 2021-12-02 |
 | [Favors](https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Favors](https://open.spotify.com/album/5AR8I2iwdSOM5HiiDHy9Lg) | 2:44 | 2022-07-29 | 2022-10-12 |
 | [Feel it Now](https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Flower Moon](https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7) | 2:53 | 2021-09-24 | 2021-11-13 |
+| [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 | 2022-12-28 |  |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-11-19 | 2022-02-25 |
 | [Field Day](https://open.spotify.com/track/1fWJzUz6vBcNeSw9eiEAXj) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Field Day](https://open.spotify.com/album/4lQIZfkUNenQ9GZtu3pqJR) | 3:20 | 2022-04-02 | 2022-04-20 |
 | [fine](https://open.spotify.com/track/4I18XNYcYRes4abAXaxE6p) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fine](https://open.spotify.com/album/60invrrNBMav6xW29PAh9X) | 3:40 | 2021-12-10 | 2022-01-08 |
