@@ -659,7 +659,7 @@ def push_updates(now):
 
     logger.info("Committing changes")
 
-    build = os.getenv("TRAVIS_BUILD_NUMBER")
+    build = os.getenv("BUILD_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
     commit = run(["git", "commit", "-m", message])
@@ -677,7 +677,7 @@ def push_updates(now):
         raise Exception("Failed to remove origin")
 
     logger.info("Adding new origin")
-    # It's ok to print the token, Travis will hide it
+    # It's ok to print the token, Github will hide it
     token = os.getenv("G_ACCESS_TOKEN")
     url = (
         "https://vitokorn:{}@github.com/vitokorn/"
