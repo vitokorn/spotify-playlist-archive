@@ -1,4 +1,4 @@
-# spotify-playlist-archive [![Build Status](https://api.travis-ci.com/vitokorn/spotify-playlist-archive.svg?branch=master)](https://travis-ci.com/github/vitokorn/spotify-playlist-archive)
+# spotify-playlist-archive [![Workflow status](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml/badge.svg)](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml)
 
 > Daily snapshots of public Spotify playlists
 
