@@ -678,7 +678,7 @@ def push_updates(now):
 
     logger.info("Adding new origin")
     # It's ok to print the token, Travis will hide it
-    token = os.getenv("GITHUB_ACCESS_TOKEN")
+    token = os.getenv("G_ACCESS_TOKEN")
     url = (
         "https://vitokorn:{}@github.com/vitokorn/"
         "spotify-playlist-archive.git".format(token)
