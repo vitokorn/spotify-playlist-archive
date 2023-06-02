@@ -2,7 +2,7 @@
 
 ### [Dance Party](https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif)
 
-> <a href="spotify:genre:edm_dance">Move</a> your feet!
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
