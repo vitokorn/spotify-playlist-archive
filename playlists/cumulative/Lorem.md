@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you. cover: TV Girl
+> a little Padam for your Fourth. Cover: TV Girl
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-18 | 2021-08-13 |
 | [Overseas/BACK 2 U](https://open.spotify.com/track/17AR21VFQPJYTRC2eNXXfS) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Overseas/BACK 2 U](https://open.spotify.com/album/1SIO06U8gTdx70MgytjUuK) | 4:39 | 2023-01-20 | 2023-04-25 |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-10-26 | 2022-02-12 |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-07-05 |  |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-04 | 2021-11-13 |
 | [Palms (with Channel Tres)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms (with Channel Tres)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-04-08 | 2021-11-13 |
 | [Paper Cup](https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup](https://open.spotify.com/album/5LZTxhttQ5VoCwlSd5wpwQ) | 2:37 | 2021-10-26 | 2021-11-13 |
