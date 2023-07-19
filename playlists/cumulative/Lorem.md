@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you. glaive's debut album enters the world!
+> All the indescribable feelings that music gives you. Lil Yachty's psych album >
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-11 | 2022-05-19 |
 | [Cortisol](https://open.spotify.com/track/4iAkVEJ6GnmUzzwcR4PyRh) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [LAVANDA](https://open.spotify.com/album/7wEgEwXxzEte52uf35ziDE) | 2:55 | 2021-10-06 | 2022-01-08 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2021-03-17 | 2021-06-04 |
-| [could cry just thinkin about you](https://open.spotify.com/track/5PLx1QYcAviGL9rfD179IX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 52 | 2023-07-14 |  |
+| [could cry just thinkin about you](https://open.spotify.com/track/5PLx1QYcAviGL9rfD179IX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 52 | 2023-07-14 | 2023-07-19 |
 | [Count of three (You can eat $#@!)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three (You can eat $#@!)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-02-25 |
 | [Cowboy](https://open.spotify.com/track/3C1OEXwsPCzzE3vP5TXWde) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Cowboy](https://open.spotify.com/album/77BydC87tFlLHEZjBso2oY) | 4:00 | 2021-03-17 | 2021-04-30 |
 | [Cowboy](https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB) | 3:26 | 2022-06-03 | 2022-08-05 |
@@ -1361,6 +1361,7 @@
 | [The Player](https://open.spotify.com/track/3Gxy35DHdgnCg0hrDDTgSF) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 4:04 | 2022-09-28 | 2022-10-28 |
 | [The Promise](https://open.spotify.com/track/4VWtDv7ASGkNGfPjTI8fPw) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 3:45 | 2022-02-11 | 2022-03-18 |
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-10-28 | 2023-03-22 |
+| [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-19 |  |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-17 | 2022-12-15 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-13 | 2022-02-25 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 | 2022-09-02 |
