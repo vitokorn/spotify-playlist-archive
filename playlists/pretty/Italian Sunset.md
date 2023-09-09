@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Italian%20Sunset.md) - [plain](/play
 
 ### [Italian Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
-> Fading into an Italian night with GCDS’s SS23 Runway for Milan Fashion Week, Soundtrack by Creative Director, Giuliano Calza.
+> Fading into an Italian night with GCDS’s SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Giuliano Calza.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
