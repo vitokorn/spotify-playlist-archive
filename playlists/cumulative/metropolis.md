@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The best indie dance tracks of the moment. Cover: Jungle
+> The best indie dance tracks of the moment. Cover: Tizrah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-11 | 2023-07-29 |
 | [Dreaming](https://open.spotify.com/track/7oKcK43owb4FnfOTLQQrTF) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dreaming](https://open.spotify.com/album/2dMzewYgORjajV2nLV0iwV) | 3:25 | 2023-09-09 |  |
 | [Dreaming of a Disco](https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Dreaming of a Disco](https://open.spotify.com/album/6BWis1o59j5RPcnzzcBqF3) | 6:06 | 2021-10-10 | 2022-04-16 |
-| [DREAMS!](https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:11 | 2023-05-13 |  |
+| [DREAMS!](https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:11 | 2023-05-13 | 2023-09-12 |
 | [Dribble - Tim Atlas Remix](https://open.spotify.com/track/0G47cARNztY5FQp3HEpFoX) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Dribble (Tim Atlas Remix)](https://open.spotify.com/album/5gpQunZB9gL9HVZWW7TBPg) | 3:14 | 2021-04-23 | 2021-08-29 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-03-27 | 2022-04-15 |
 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-02 | 2023-01-06 |
@@ -522,7 +522,7 @@
 | [HowTheyLikeMe!](https://open.spotify.com/track/5PaGqK1Cfu3sqEMOdEBHnP) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 1:44 | 2023-02-25 | 2023-03-04 |
 | [Human Condition](https://open.spotify.com/track/1eNyYS3r2V3lNJNz5uqwCW) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Human Condition](https://open.spotify.com/album/0yqT3zXPPNYb3OA2c75JBT) | 3:07 | 2022-06-09 | 2022-07-15 |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-04-10 | 2023-07-28 |
-| [Humans - Elevated Mix](https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans (Elevated Mix)](https://open.spotify.com/album/2BPV9ZHTm0HxIQ3QBC1edp) | 4:12 | 2023-05-27 | 2023-09-09 |
+| [Humans - Elevated Mix](https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans (Elevated Mix)](https://open.spotify.com/album/2BPV9ZHTm0HxIQ3QBC1edp) | 4:12 | 2023-05-27 |  |
 | [Hyperlow](https://open.spotify.com/track/0gA7ZGM9JYkxcFwSn2ZHyu) | [Isla Den](https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ) | [Virtual Garden](https://open.spotify.com/album/5yHdnlc98gDiv1usTip2yX) | 3:36 | 2021-01-19 | 2021-03-05 |
 | [Hyperspace (feat. Teza Sumendra)](https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace (feat. Teza Sumendra)](https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX) | 3:24 | 2021-11-19 | 2022-01-07 |
 | [Hypnotized (with skaiwater)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 | 2023-03-02 | 2023-04-08 |
