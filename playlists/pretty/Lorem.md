@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> my mantra is grateful all the time & sexy & kind & pretty when i cry & also first lady tube girl. Cover: Dana & Alden
+> a bunch of fun music to get lost in, starting with Dana & Alden
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Go to Trader Joe's](https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 2:36 |
 | 2 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 3 | [Lethal](https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Lethal](https://open.spotify.com/album/5zkwlC9Kh1XyBIpXPNYsyV) | 4:10 |
-| 4 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 5 | [Eulogy for Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
-| 6 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 |
-| 7 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
+| 4 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
+| 5 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
+| 6 | [Eulogy for Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
+| 7 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 |
 | 8 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
 | 9 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 | 10 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 |
