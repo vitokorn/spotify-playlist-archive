@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Bakar brings in autumn. 
+> Remi Wolf. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Cashmere](https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/7x32TKnMbuS6pALWFn4DFW) | 3:03 | 2021-06-11 | 2022-04-09 |
 | [Castaway](https://open.spotify.com/track/1wkM7sPVAucG10x0McMDPa) | [Jackii Kennedy](https://open.spotify.com/artist/5sprC3BOlpim8l6tyepfg7) | [Castaway](https://open.spotify.com/album/35GyURhzt6S11sEMx4sBkl) | 2:33 | 2021-07-31 | 2021-11-13 |
 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 | 2022-04-15 | 2022-06-02 |
-| [Casual](https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/0OLxztpxYJ9BAOPzGkD0Wf) | 3:52 | 2022-10-28 |  |
+| [Casual](https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/0OLxztpxYJ9BAOPzGkD0Wf) | 3:52 | 2022-10-28 | 2023-09-26 |
+| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2023-09-26 |  |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-19 | 2022-05-13 |
 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-08-26 |  |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-10 | 2022-04-29 |
@@ -948,6 +949,7 @@
 | [Misery Moon](https://open.spotify.com/track/5EwRVuWJpNNMYM4UkT561o) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 1:08 | 2023-08-12 | 2023-09-08 |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-17 | 2021-12-02 |
 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-08 | 2023-04-08 |
+| [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-09-26 |  |
 | [Molly](https://open.spotify.com/track/5Bxlchum7dWVpR60j6BMrT) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Molly](https://open.spotify.com/album/1I8Nu2RsxFcZBfSfaYrbGt) | 2:41 | 2022-09-30 | 2023-02-21 |
 | [Moment of Silence](https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Curses! Pt. 2](https://open.spotify.com/album/4XsgXbAaIplkV4kHFl4EJ4) | 2:43 | 2022-05-12 | 2022-05-27 |
 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 | 2023-03-18 |  |
@@ -1241,6 +1243,7 @@
 | [SHAPESHIFTER](https://open.spotify.com/track/5WXz2toRgsjW6XHDvTYQ9X) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SHAPESHIFTER](https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j) | 3:13 | 2021-03-17 | 2021-06-04 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-07-01 |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2021-03-17 | 2021-05-19 |
+| [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 | 2023-09-26 |  |
 | [Shed Head](https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Shed Head](https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc) | 3:41 | 2022-05-13 | 2022-06-09 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-06-22 | 2022-10-12 |
 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-24 | 2023-08-16 |
