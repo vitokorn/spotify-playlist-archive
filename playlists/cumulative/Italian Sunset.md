@@ -2,7 +2,7 @@
 
 ### [Italian Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
-> Italian funk, disco and jazz, recent and old—to listen to while you have aperitivo on a rooftop, ideally 🌅
+> Italian funk, disco and jazz, recent and old. Hand-picked by actual Italians. 🌙
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Milano Mediterranee](https://open.spotify.com/track/6LOYCWRjedRSIqvJYyTYwe) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Milano Mediterranee](https://open.spotify.com/album/4a490BQLKQTenJYcvr92da) | 2:59 | 2023-10-02 |  |
 | [Mo...](https://open.spotify.com/track/5Qcf8gAmuDpGO5ZKsx1o5N) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Bona furtuna](https://open.spotify.com/album/6zKDIAvueGba7mstwESa6Q) | 3:50 | 2023-10-02 |  |
 | [Morirò Per Te - 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 | 2023-10-02 |  |
+| [Motivo di Giorgia](https://open.spotify.com/track/6v77gXfHDNgbVqFbVN5MD7) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Gli ordini sono ordini (Original Motion Picture Soundtrack)](https://open.spotify.com/album/3kBJUgj279LsOfO13mrhOe) | 1:20 | 2023-10-14 |  |
 | [Musica leggerissima - Ceri Remix](https://open.spotify.com/track/7Lgy02MHyCl4iOMkpv9iJJ) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g), [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Musica leggerissima (Remixes)](https://open.spotify.com/album/6DZeYzqD1i6EmBwKOG6fvh) | 5:10 | 2023-10-02 |  |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2023-09-08 |  |
 | [Napule È](https://open.spotify.com/track/0yLEo7X7tJnyzEIITgexV7) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Pino Daniele DOC](https://open.spotify.com/album/2jr8EyK8gAdXDWBilCprkw) | 3:46 | 2023-09-08 | 2023-10-02 |
