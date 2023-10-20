@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|
 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-08-12 |  |
 | [80 Voglia Di Calcio](https://open.spotify.com/track/0rXHFS9231fKgIVcjw0u9P) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Italianissimo Part 2](https://open.spotify.com/album/3KhwAljG6vk3jkiYPcDtpA) | 4:46 | 2022-08-12 | 2022-09-06 |
-| [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2022-08-12 |  |
+| [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2022-08-12 |  |
 | [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-08-12 | 2022-09-06 |
 | [Agave Harvest](https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light](https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE) | 7:04 | 2022-11-18 | 2023-02-21 |
 | [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light (Volume II)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 | 2022-09-06 | 2022-11-18 |

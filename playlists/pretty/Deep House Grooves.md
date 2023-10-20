@@ -6,12 +6,12 @@ pretty - [cumulative](/playlists/cumulative/Deep%20House%20Grooves.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 |
+| 1 | [Necesito](https://open.spotify.com/track/4Fd86IYmEFNA824soFtsLk) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Necesito](https://open.spotify.com/album/5lPrj1KoriabqtiYjyHrjZ) | 3:25 |
 | 2 | [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 |
 | 3 | [Shenkin (pi-c remix)](https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn) | [Iris Ell](https://open.spotify.com/artist/0Sk1qaUGMbaLJ6bStLeXdm), [Frida Melando](https://open.spotify.com/artist/534ZY7H55kjUhBSk0Ln5vh), [pi-c](https://open.spotify.com/artist/3ME6Xrst3i91iKU61wcjZo) | [Shenkin (Remixes)](https://open.spotify.com/album/0K33p5RA9r3pX8imhF76dp) | 4:48 |
 | 4 | [Post Tenebras Lux](https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Post Tenebras Lux](https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1) | 3:52 |
-| 5 | [Necesito](https://open.spotify.com/track/4Fd86IYmEFNA824soFtsLk) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Necesito](https://open.spotify.com/album/5lPrj1KoriabqtiYjyHrjZ) | 3:25 |
-| 6 | [Evermore](https://open.spotify.com/track/3p789UBiSbPjcLAcQKXh7j) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Evermore](https://open.spotify.com/album/0oxHLoGUSAqpaew0YjLq0m) | 6:29 |
+| 5 | [Evermore](https://open.spotify.com/track/3p789UBiSbPjcLAcQKXh7j) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Evermore](https://open.spotify.com/album/0oxHLoGUSAqpaew0YjLq0m) | 6:29 |
+| 6 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 |
 | 7 | [Keep Rocking](https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:53 |
 | 8 | [Strobe Queen](https://open.spotify.com/track/5eQkvoZXhrs33aa0foQsnM) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Strobe Queen](https://open.spotify.com/album/3hOCGfnOSj3FCppaoyORLk) | 5:11 |
 | 9 | [Cooking Up](https://open.spotify.com/track/0n94wJUljNAp0KvFplWYKM) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Cooking Up](https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor) | 4:42 |
