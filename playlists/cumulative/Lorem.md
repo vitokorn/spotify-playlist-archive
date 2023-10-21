@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> delicate music goes hard. cover: Cuco
+> delicate music goes hard / "pop the culture iconography" cover: Troye Sivan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2022-04-12 | 2022-12-23 |
 | [Believe - Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-07-22 | 2022-07-29 |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-21 |
+| [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-10-21 |  |
 | [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-10 | 2023-08-26 |
 | [Best Friend](https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:44 | 2021-05-15 | 2021-07-31 |
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-06 | 2023-06-02 |
@@ -866,6 +867,7 @@
 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-03-11 | 2023-05-27 |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-02 | 2021-08-13 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-12-02 | 2022-01-08 |
+| [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 | 2023-10-21 |  |
 | [Limousine](https://open.spotify.com/track/3zL4FoSW5burOKQQkEqFPS) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:12 | 2021-12-02 | 2022-01-08 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2022-03-01 | 2022-05-13 |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-07-23 | 2021-09-24 |
@@ -1102,6 +1104,7 @@
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-08 | 2022-08-19 |
 | [Pasture Child](https://open.spotify.com/track/5APPlPgagEAXjGLIizqSDS) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:53 | 2023-07-14 | 2023-08-26 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-03-17 | 2021-06-04 |
+| [Paulie Bleeker](https://open.spotify.com/track/2MWpgaYQee0U6sKn1jJ2o8) | [Pity Party (Girls Club)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Paulie Bleeker](https://open.spotify.com/album/1jKpxJPohujeCGiEQfV3QI) | 3:19 | 2023-10-21 |  |
 | [peach eyes](https://open.spotify.com/track/1V8s51MOKlmES1Vc9Erm89) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 3:05 | 2023-08-16 | 2023-09-23 |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-24 | 2021-12-02 |
 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 | 2021-04-23 | 2022-06-03 |
@@ -1255,6 +1258,7 @@
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-09-30 | 2023-02-21 |
 | [Self Service](https://open.spotify.com/track/58mrAYHhG1r89oqFK7skWu) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [French Bath](https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw) | 2:58 | 2023-06-17 | 2023-07-01 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-23 | 2022-06-22 |
+| [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-21 |  |
 | [Sensitive](https://open.spotify.com/track/1XbyfNSAe9UHBjn22YJ7Ys) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Sensitive](https://open.spotify.com/album/4Wml9i3C4GlRNbdj99rRmX) | 2:47 | 2021-03-17 | 2021-04-16 |
 | [Sepsis](https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:46 | 2023-08-05 | 2023-08-16 |
 | [september](https://open.spotify.com/track/6JU5xmZEqXxw2sukVDCcba) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [september](https://open.spotify.com/album/5NG3pro4O1omnF9nTdxptQ) | 3:02 | 2022-06-17 | 2022-07-01 |
@@ -1543,6 +1547,7 @@
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-11-13 | 2021-12-02 |
 | [Took My Time (feat. rei brown & sam.sts)](https://open.spotify.com/track/2wvoPGQYWIHzoORg8OnmTe) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Took My Time](https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp) | 3:45 | 2022-08-18 | 2022-08-26 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-15 | 2023-08-26 |
+| [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 | 2023-10-21 |  |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-07-01 | 2023-01-27 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-07-06 |  |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-03-17 | 2021-05-15 |
