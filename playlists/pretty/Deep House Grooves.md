@@ -6,8 +6,8 @@ pretty - [cumulative](/playlists/cumulative/Deep%20House%20Grooves.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Water Vibration](https://open.spotify.com/track/55L2O3rTwy9jaFWAkcth9i) | [Laszlo](https://open.spotify.com/artist/0IYI04P2UzxwxJxvdvKk7P) | [Water Vibration](https://open.spotify.com/album/6QgU7RmiyBoEugUHfUCL6q) | 3:20 |
-| 2 | [2Sides - Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides (Crackazat Remix)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 |
+| 1 | [2Sides - Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides (Crackazat Remix)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 |
+| 2 | [Water Vibration](https://open.spotify.com/track/55L2O3rTwy9jaFWAkcth9i) | [Laszlo](https://open.spotify.com/artist/0IYI04P2UzxwxJxvdvKk7P) | [Water Vibration](https://open.spotify.com/album/6QgU7RmiyBoEugUHfUCL6q) | 3:20 |
 | 3 | [Jazz Dummy](https://open.spotify.com/track/2pZHOul3kAtiGx8jf2LvQx) | [Danou P](https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv), [Kems Kriol](https://open.spotify.com/artist/5x3KzaHOhfM4mOW2nLq0Yl) | [Allez Hoop](https://open.spotify.com/album/7FuFwlTDkECL0M3zPCIGdw) | 5:49 |
 | 4 | [Keep Rocking](https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:53 |
 | 5 | [My Buddy](https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [My Buddy](https://open.spotify.com/album/0OX4imBNw7NMoenB3csJtj) | 6:23 |
