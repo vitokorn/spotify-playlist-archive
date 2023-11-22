@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The best indie dance tracks of the moment. Cover: Barry Can't Swim
+> The best indie dance tracks of the moment. Cover: Mindchatter
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Dreaming](https://open.spotify.com/track/7oKcK43owb4FnfOTLQQrTF) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dreaming](https://open.spotify.com/album/2dMzewYgORjajV2nLV0iwV) | 3:25 | 2023-09-09 |  |
 | [Dreaming of a Disco](https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Dreaming of a Disco](https://open.spotify.com/album/6BWis1o59j5RPcnzzcBqF3) | 6:06 | 2021-10-10 | 2022-04-16 |
 | [Dreams (Rework)](https://open.spotify.com/track/73FOzppaF9mNLgmT4HSPWB) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Dreams (Rework)](https://open.spotify.com/album/3uDXrh6GnimJbaRxNCq00K) | 3:38 | 2023-09-23 |  |
-| [DREAMS!](https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:11 | 2023-05-13 |  |
+| [DREAMS!](https://open.spotify.com/track/03lQ18VuymG6LDITQItJpn) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/5qf3r31KB5dW7XroCdkjIQ) | 3:11 | 2023-05-13 |  |
 | [Dribble - Tim Atlas Remix](https://open.spotify.com/track/0G47cARNztY5FQp3HEpFoX) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Dribble (Tim Atlas Remix)](https://open.spotify.com/album/5gpQunZB9gL9HVZWW7TBPg) | 3:14 | 2021-04-23 | 2021-08-29 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-03-27 | 2022-04-15 |
 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-02 | 2023-01-06 |
@@ -1311,6 +1311,7 @@
 | [U Already Know](https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [U Already Know](https://open.spotify.com/album/67zbNHgYUej6u9dNUlV4Gr) | 4:12 | 2021-06-12 | 2022-07-28 |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-29 | 2023-08-26 |
 | [U&ME - Baauer Remix](https://open.spotify.com/track/1isVA9WBGqhuSB7jtiq5M7) | [alt-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [U&ME (Baauer Remix)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 4:54 | 2021-11-02 | 2022-02-07 |
+| [Uglyfisherman](https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [D-SIDES](https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN) | 2:14 | 2023-11-22 |  |
 | [Unconditional](https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unconditional](https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT) | 3:09 | 2022-10-05 | 2022-10-31 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-30 |  |
 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 | 2021-09-03 | 2022-07-27 |
