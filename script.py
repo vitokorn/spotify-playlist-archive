@@ -453,14 +453,17 @@ class Formatter:
 
     @classmethod
     def _format_duration(cls, duration_ms):
-        seconds = int(duration_ms // 1000)
-        timedelta = str(datetime.timedelta(seconds=seconds))
-
-        index = 0
-        while timedelta[index] in [":", "0"]:
-            index += 1
-
-        return timedelta[index:]
+        try:
+            seconds = int(duration_ms // 1000)
+            timedelta = str(datetime.timedelta(seconds=seconds))
+    
+            index = 0
+            while timedelta[index] in [":", "0"]:
+                index += 1
+    
+            return timedelta[index:]
+        except:
+            return f'00:00'
 
 
 class URL:
