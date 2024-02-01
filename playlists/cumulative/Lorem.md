@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> songs you'll fall in love with. Medium Build on the cover. 
+> it's covers season. Medium Build on the cover. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Bunny Is A Rider](https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:13 | 2023-08-01 | 2023-08-12 |
 | [Burial](https://open.spotify.com/track/3hAISHuncayUMztDDvkwmS) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow (Deluxe Edition)](https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5) | 4:21 | 2021-12-23 | 2022-01-08 |
 | [burn](https://open.spotify.com/track/6oIVco9En9luNfR022zc4c) | [diet lemon](https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U) | [burn](https://open.spotify.com/album/28h3m5usHx9gXw9qytKy3J) | 3:34 | 2023-07-15 | 2023-08-16 |
+| [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2024-02-01 |  |
 | [burning love letters](https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [burning love letters](https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End) | 2:34 | 2023-01-27 | 2023-03-11 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-22 |  |
 | [BUTTERFLY 나비](https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [A PROPHECY](https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg) | 2:28 | 2023-11-18 | 2023-12-09 |
@@ -312,6 +313,7 @@
 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 | 2023-06-03 | 2023-08-16 |
 | [Chaise Longue - French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue (French Version)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-03 | 2022-11-07 |
 | [Chamber Of Reflection - live stream 5/19/23](https://open.spotify.com/track/3gNmgzx1vOFcsA5UmIULgn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Chamber Of Reflection (live stream 5/19/23)](https://open.spotify.com/album/6mJyi0LV45BfhPWrguFDu9) | 2:33 | 2023-11-16 | 2024-01-13 |
+| [Change (feat. Remi Wolf)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 |  |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-22 | 2022-10-12 |
 | [Chapstick](https://open.spotify.com/track/1YD4jJmvDZXgFBHYVa8jgz) | [Astrus*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR), [Wassup Rocker](https://open.spotify.com/artist/3FTVaiseJDY5xghhW0VcLC) | [Chapstick](https://open.spotify.com/album/0YIzL43tsCDq2lErTXBQ9z) | 3:01 | 2021-04-30 | 2021-07-31 |
 | [Charm You - Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You (Blondshell Version)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 | 2023-06-24 | 2023-07-29 |
