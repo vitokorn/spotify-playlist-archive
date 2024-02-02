@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Justice
+> The home for alternative electronic music. Cover: Bicep
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-25 | 2022-08-01 |
 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2022-11-11 | 2023-05-19 |
 | [Chesters Groove](https://open.spotify.com/track/5roJJmMP856qJqgyJ9UV2B) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Chesters Groove EP](https://open.spotify.com/album/5YuqcTGsiGDpSjRllgCLQi) | 7:37 | 2021-05-21 | 2021-06-18 |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [Cicada (feat. Arca)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [Cicada](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-20 | 2021-11-21 |
 | [Cinemax - Edit](https://open.spotify.com/track/682HD7Z4WzSxqyjEJQgtBU) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Cinemax](https://open.spotify.com/album/63fkltU4MUZlcKp4R3SOpi) | 5:51 | 2021-01-21 | 2021-03-05 |
@@ -660,7 +661,7 @@
 | [JOY (I Did You Wrong)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY (I Did You Wrong)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 | 2023-09-29 | 2024-01-26 |
 | [JOY (In Me All The Time)](https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY (In Me All The Time)](https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG) | 3:42 | 2023-10-20 |  |
 | [JOY (Overcome)](https://open.spotify.com/track/5jDR7oIt1Ibz0xuZRhJuAf) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY (Overcome)](https://open.spotify.com/album/5UqtSRZcARg0vpN4SZvO5I) | 3:36 | 2021-09-03 | 2021-11-19 |
-| [JOY (Push The Button)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY (Push The Button)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-22 |  |
+| [JOY (Push The Button)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY (Push The Button)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-22 | 2024-02-02 |
 | [JOY (Up The Street)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 | 2023-11-04 |  |
 | [JOY (Up The Street)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY (Up The Street)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 | 2023-11-03 | 2023-11-04 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2021-09-17 | 2021-11-26 |
@@ -987,6 +988,7 @@
 | [Price of Highest Consciousness](https://open.spotify.com/track/56Mb7S3hgCT3oie2GbM9dm) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Price of Highest Consciousness](https://open.spotify.com/album/4wotpxNM5NFORIjF6GX7ok) | 6:08 | 2021-01-21 | 2021-03-12 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-23 | 2023-03-11 |
 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 | 2021-03-05 | 2021-05-28 |
+| [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-02 |  |
 | [Proud - Dance System Remix](https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Proud (Dance System Remix)](https://open.spotify.com/album/0jhQ97Dc7WvwGHXkvtkVFJ) | 3:13 | 2021-12-10 | 2022-02-11 |
 | [Public Adamu Show](https://open.spotify.com/track/0KsmozJcLh9nPOQzbUYmQZ) | [||||||||||||||||||||](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Public Adamu Show](https://open.spotify.com/album/62Us3Y6hdY2V5MLaazic6q) | 4:40 | 2021-04-10 | 2021-04-16 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-08-01 | 2022-12-10 |
@@ -1111,7 +1113,7 @@
 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 | 2021-08-13 | 2021-11-19 |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2021-04-10 | 2021-07-23 |
 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 | 2022-10-14 | 2023-09-01 |
-| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 |  |
+| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 | 2024-02-02 |
 | [Shoes Off](https://open.spotify.com/track/4exgNWIwQ28AqhsvjcCx6P) | [Karenn](https://open.spotify.com/artist/4XbegMt5bk2X8R6b8z0vaX) | [Music Sounds Better With Shoe](https://open.spotify.com/album/64VBr4vnNxD2qgNxwJb8ab) | 6:27 | 2021-04-10 | 2021-04-16 |
 | [Shorty](https://open.spotify.com/track/4wwZS4a7MR2DZIRjq8G5lD) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Shorty](https://open.spotify.com/album/2gxPIKRsVy27zkAPZ4QbZS) | 3:28 | 2023-01-13 | 2023-04-28 |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-02-05 | 2021-04-10 |
