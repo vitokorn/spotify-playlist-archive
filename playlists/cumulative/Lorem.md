@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> it's covers season. Medium Build on the cover. 
+> it's covers season, starring Remi Wolf & Norah Jones
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,8 @@
 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 | 2022-09-02 | 2022-09-23 |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-16 | 2021-07-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-16 |  |
+| [even when the sun is dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [even when the sun is dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-03 |  |
+| [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-02-03 |  |
 | [Evergreen (You Didn’t Deserve Me At All)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-15 | 2022-12-15 |
 | [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-04-15 | 2022-09-15 |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2023-02-21 | 2023-03-10 |
@@ -938,6 +940,7 @@
 | [Locals (Girls like us) [with gabby start]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals (Girls like us) [with gabby start]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-13 | 2023-09-23 |
 | [Loneliness](https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loneliness](https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx) | 3:27 | 2022-06-24 | 2022-08-05 |
 | [Lonely](https://open.spotify.com/track/4Biop1OnRXnezWWm0NlFQC) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura (Extended)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:33 | 2021-06-04 | 2021-06-11 |
+| [loner](https://open.spotify.com/track/2Dv7yzt7fk6PIj2PRTLx8e) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [loner](https://open.spotify.com/album/2LXKJVVy28TDvK7yBsENXB) | 3:56 | 2024-02-03 |  |
 | [Loner](https://open.spotify.com/track/04CXlpWb6LtkqrfWoDxDvY) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Pigeons & Planes & Big.Ass.Kids present: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 3:05 | 2022-08-05 | 2022-08-17 |
 | [Loner](https://open.spotify.com/track/04CXlpWb6LtkqrfWoDxDvY) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 3:05 | 2022-08-17 | 2022-09-10 |
 | [Lonestar](https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Lonestar](https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi) | 3:14 | 2022-03-25 | 2022-04-23 |
