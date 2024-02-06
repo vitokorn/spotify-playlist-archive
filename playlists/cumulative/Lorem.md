@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> congrats to the boys! cover: boygenius
+> congrats to the boys! cover: boygenius, taylor swift, jack antonoff
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1362,7 +1362,7 @@
 | [Sexy Villain](https://open.spotify.com/track/5UQZGDJ4l2A4JhDhuE9Edc) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 3:08 | 2021-09-24 | 2021-12-02 |
 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-04-08 | 2022-05-21 |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-09 | 2021-11-13 |
-| [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 | 2023-07-01 |  |
+| [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 | 2023-07-01 | 2024-02-06 |
 | [SHAPESHIFTER](https://open.spotify.com/track/5WXz2toRgsjW6XHDvTYQ9X) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SHAPESHIFTER](https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j) | 3:13 | 2021-03-17 | 2021-06-04 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-07-01 |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2021-03-17 | 2021-05-19 |
