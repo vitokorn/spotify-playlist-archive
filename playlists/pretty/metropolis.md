@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/metropolis.md) - [plain](/playlists/
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIME](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 |
+| 1 | [Time](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 |
 | 2 | [Everything + Nothing (feat. Barney Bones)](https://open.spotify.com/track/6WPTuvAWWhCG7WhvSy4qTp) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Everything + Nothing (feat. Barney Bones)](https://open.spotify.com/album/7KvrBon215XCI3CUoMyRws) | 2:32 |
 | 3 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 4 | [Behaviour](https://open.spotify.com/track/3CpKyUeoJTV3MdbwGbSAed) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Behaviour](https://open.spotify.com/album/3mayNyKEbNAuIizCaGhSC3) | 3:41 |
