@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> stuff that is good! ft hana vu
+> dora jar x ashnikko remix and sooo much moooore
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
