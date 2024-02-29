@@ -95,14 +95,14 @@ class Spotify:
         await asyncio.sleep(0)
 
     async def get_playlist(self, playlist_id):
-        logger.warning("playlist_id 98: {}".format(playlist_id))
+        logger.warning(f"playlist_id 98: {playlist_id}")
         if not playlist_id:
             pass
         else:
             playlist_href = self._get_playlist_href(playlist_id)
             async with self._session.get(playlist_href) as response:
                 data = await response.json(content_type=None)
-            logger.warning("Data 101: {}".format(data))
+            logger.warning(f"Data 101: {data}")
             error = data.get("error")
             if error:
                 if error.get("status") == 401:
@@ -112,8 +112,9 @@ class Spotify:
                 elif error.get("status") == 404:
                     raise InvalidPlaylistError
                 else:
+                    logger.warning(f"Failed to get playlist: {error}")
                     return None
-                    # raise Exception("Failed to get playlist: {}".format(error))
+                    # raise Exception(f"Failed to get playlist: {error}")
 
             url = self._get_url(data["external_urls"])
 
@@ -137,7 +138,7 @@ class Spotify:
 
             error = data.get("error")
             if error:
-                raise Exception("Failed to get tracks: {}".format(error))
+                raise Exception(f"Failed to get tracks: {error}")
 
             for item in data["items"]:
                 track = item["track"]
@@ -152,10 +153,10 @@ class Spotify:
                 album = track["album"]["name"]
 
                 if not name:
-                    logger.warning("Empty track name: {}".format(url))
+                    logger.warning(f"Empty track name: {url}")
                     name = "<MISSING>"
                 if not album:
-                    logger.warning("Empty track album: {}".format(url))
+                    logger.warning(f"Empty track album: {url}")
                     album = "<MISSING>"
 
                 artists = []
@@ -168,7 +169,7 @@ class Spotify:
                     )
 
                 if not artists:
-                    logger.warning("Empty track artists: {}".format(url))
+                    logger.warning(f"Empty track artists: {url}")
 
                 tracks.append(
                     Track(
@@ -196,7 +197,7 @@ class Spotify:
     def _get_playlist_href(cls, playlist_id):
         rest = "{}?fields=external_urls,name,description"
         template = cls.BASE_URL + rest
-        logger.warning("template 195: {}".format(template))
+        logger.warning(f"template 200: {template}")
         return template.format(playlist_id)
 
     @classmethod
@@ -210,28 +211,28 @@ class Spotify:
 
     @classmethod
     async def get_access_token(cls, client_id, client_secret):
-        joined = "{}:{}".format(client_id, client_secret)
+        joined = f"{client_id}:{client_secret}"
         encoded = base64.b64encode(joined.encode()).decode()
 
         async with aiohttp.ClientSession() as session:
             async with session.post(
                 "https://accounts.spotify.com/api/token",
                 data={"grant_type": "client_credentials"},
-                headers={"Authorization": "Basic {}".format(encoded)},
+                headers={"Authorization": f"Basic {encoded}"},
             ) as response:
                 data = await response.json()
 
         error = data.get("error")
         if error:
-            raise Exception("Failed to get access token: {}".format(error))
+            raise Exception(f"Failed to get access token: {error}")
 
         access_token = data.get("access_token")
         if not access_token:
-            raise Exception("Invalid access token: {}".format(access_token))
+            raise Exception(f"Invalid access token: {access_token}")
 
         token_type = data.get("token_type")
         if token_type != "Bearer":
-            raise Exception("Invalid token type: {}".format(token_type))
+            raise Exception(f"Invalid token type: {token_type}")
 
         return access_token
 
@@ -367,16 +368,11 @@ class Formatter:
             cumulative = cls._link("cumulative", URL.cumulative(playlist_name))
 
         return [
-            "{} - {} - {} ({})".format(
-                pretty,
-                cumulative,
-                cls._link("plain", URL.plain(playlist_id)),
-                cls._link("githistory", URL.plain_history(playlist_id)),
-            ),
+            f"{pretty} - {cumulative} - {cls._link('plain', URL.plain(playlist_id))} ({cls._link('githistory', URL.plain_history(playlist_id))})"
             "",
-            "### {}".format(cls._link(playlist_name, playlist_url)),
+            f"### {cls._link(playlist_name, playlist_url)}",
             "",
-            "> {}".format(playlist_description),
+            f"> {playlist_description}",
             "",
         ]
 
@@ -434,17 +430,13 @@ class Formatter:
 
     @classmethod
     def _plain_line_from_names(cls, track_name, artist_names, album_name):
-        return "{} -- {} -- {}".format(
-            track_name,
-            cls.ARTIST_SEPARATOR.join(artist_names),
-            album_name,
-        )
+        return f"{track_name} -- {cls.ARTIST_SEPARATOR.join(artist_names)} -- {album_name}"
 
     @classmethod
     def _link(cls, text, url):
         if not url:
             return text
-        return "[{}]({})".format(text, url)
+        return f"[{text}]({url})"
 
     @classmethod
     def _unlink(cls, link):
@@ -476,21 +468,21 @@ class URL:
 
     @classmethod
     def plain_history(cls, playlist_id):
-        return cls.HISTORY_BASE + "/plain/{}".format(playlist_id)
+        return cls.HISTORY_BASE + f"/plain/{playlist_id}"
 
     @classmethod
     def plain(cls, playlist_id):
-        return cls.BASE + "/plain/{}".format(playlist_id)
+        return cls.BASE + f"/plain/{playlist_id}"
 
     @classmethod
     def pretty(cls, playlist_name):
         sanitized = playlist_name.replace(" ", "%20")
-        return cls.BASE + "/pretty/{}.md".format(sanitized)
+        return cls.BASE + f"/pretty/{sanitized}.md"
 
     @classmethod
     def cumulative(cls, playlist_name):
         sanitized = playlist_name.replace(" ", "%20")
-        return cls.BASE + "/cumulative/{}.md".format(sanitized)
+        return cls.BASE + f"/cumulative/{sanitized}.md"
 
 
 async def update_files(now):
@@ -525,72 +517,51 @@ async def update_files_impl(now, spotify):
     # ignored_path = "{}/{}".format(plain_dir, ignored)
     # if more than one playlist to ignore comment the section above
     ignored_list = ['37i9dQZF1E37YIfAiHUTYF']
-    for ignored in ignored_list:
-        if ignored in playlist_ids:
-            ignored_path = "{}/{}".format(plain_dir, ignored)
-            print(ignored)
+
+    for playlist_id in playlist_ids:
+        # added ignore for some playlists
+        if playlist_id not in ignored_list:
+            plain_path = f"{plain_dir}/{playlist_id}"
             try:
-                test = await spotify.get_playlist(ignored)
+                playlist = await spotify.get_playlist(playlist_id)
+            except PrivatePlaylistError:
+                print(f"Removing private playlist: {playlist_id}")
+                os.remove(plain_path)
+            except InvalidPlaylistError:
+                print(f"Removing invalid playlist: {playlist_id}")
+                os.remove(plain_path)
             except:
-                print("Error: {}".format(traceback.format_exc()))
-                os.remove(ignored_path)
+                pass
             else:
-                print('Test: {}'.format(test.name))
                 readme_lines.append(
-                    "- [{}]({})".format(
-                        test.name,
-                        URL.pretty(test.name),
-                    )
+                    f"- [{playlist}]({URL.pretty(playlist.name)})"
                 )
 
-            for playlist_id in playlist_ids:
+                pretty_path = f"{pretty_dir}/{playlist.name}.md"
+                cumulative_path = f"{cumulative_dir}/{playlist.name}.md"
 
-                # added ignore for some playlists
-                if not ignored in playlist_id:
-                    plain_path = "{}/{}".format(plain_dir, playlist_id)
+                for path, func, flag in [
+                    (plain_path, Formatter.plain, False),
+                    (pretty_path, Formatter.pretty, False),
+                    (cumulative_path, Formatter.cumulative, True),
+                ]:
                     try:
-                        playlist = await spotify.get_playlist(playlist_id)
-                    except PrivatePlaylistError:
-                        print("Removing private playlist: {}".format(playlist_id))
-                        os.remove(plain_path)
-                    except InvalidPlaylistError:
-                        print("Removing invalid playlist: {}".format(playlist_id))
-                        os.remove(plain_path)
-                    except:
-                        pass
+                        prev_content = "".join(open(path).readlines())
+                    except Exception:
+                        prev_content = None
+
+                    if flag:
+                        args = [now, prev_content, playlist_id, playlist]
                     else:
-                        readme_lines.append(
-                            "- [{}]({})".format(
-                                playlist.name,
-                                URL.pretty(playlist.name),
-                            )
-                        )
+                        args = [playlist_id, playlist]
 
-                        pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
-                        cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
-
-                        for path, func, flag in [
-                            (plain_path, Formatter.plain, False),
-                            (pretty_path, Formatter.pretty, False),
-                            (cumulative_path, Formatter.cumulative, True),
-                        ]:
-                            try:
-                                prev_content = "".join(open(path).readlines())
-                            except Exception:
-                                prev_content = None
-
-                            if flag:
-                                args = [now, prev_content, playlist_id, playlist]
-                            else:
-                                args = [playlist_id, playlist]
-
-                            content = func(*args)
-                            if content == prev_content:
-                                logger.info("No changes to file: {}".format(path))
-                            else:
-                                logger.info("Writing updates to file: {}".format(path))
-                                with open(path, "w") as f:
-                                    f.write(content)
+                    content = func(*args)
+                    if content == prev_content:
+                        logger.info(f"No changes to file: {path}")
+                    else:
+                        logger.info(f"Writing updates to file: {path}")
+                        with open(path, "w") as f:
+                            f.write(content)
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
@@ -609,10 +580,10 @@ async def update_files_impl(now, spotify):
     missing_from_pretty = plain_playlists - pretty_playlists
 
     # if missing_from_plain:
-    #     raise Exception("Missing plain playlists: {}".format(missing_from_plain))
+    #     raise Exception(f"Missing plain playlists: {missing_from_plain}")
 
     if missing_from_pretty:
-        raise Exception("Missing pretty playlists: {}".format(missing_from_pretty))
+        raise Exception(f"Missing pretty playlists: {missing_from_pretty}")
 
     # Lastly, update README.md
     readme = open("README.md").read().splitlines()
@@ -625,13 +596,13 @@ async def update_files_impl(now, spotify):
 
 
 def run(args):
-    logger.info("- Running: {}".format(args))
+    logger.info(f"- Running: {args}")
     result = subprocess.run(
         args=args,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
     )
-    logger.info("- Exited with: {}".format(result.returncode))
+    logger.info(f"- Exited with: {result.returncode}")
     return result
 
 
@@ -664,7 +635,7 @@ def push_updates(now):
 
     build = os.getenv("BUILD_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
-    message = "[skip ci] Build #{} ({})".format(build, now_str)
+    message = f"[github workflow] Build #{build} ({now_str})"
     commit = run(["git", "commit", "-m", message])
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
@@ -683,8 +654,7 @@ def push_updates(now):
     # It's ok to print the token, Github will hide it
     token = os.getenv("G_ACCESS_TOKEN")
     url = (
-        "https://vitokorn:{}@github.com/vitokorn/"
-        "spotify-playlist-archive.git".format(token)
+        f"https://vitokorn:{token}@github.com/vitokorn/spotify-playlist-archive.git"
     )
     remote_add = run(["git", "remote", "add", "origin", url])
     if remote_add.returncode != 0:
@@ -693,6 +663,7 @@ def push_updates(now):
     logger.info("Pushing changes")
     push = run(["git", "push", "origin", "master"])
     if push.returncode != 0:
+        logger.warning(f"Push returned code {push.returncode}")
         raise Exception("Failed to push changes")
 
 
