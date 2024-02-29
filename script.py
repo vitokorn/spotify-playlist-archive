@@ -534,7 +534,7 @@ async def update_files_impl(now, spotify):
                 pass
             else:
                 readme_lines.append(
-                    f"- [{playlist}]({URL.pretty(playlist.name)})"
+                    f"- [{playlist.name}]({URL.pretty(playlist.name)})"
                 )
 
                 pretty_path = f"{pretty_dir}/{playlist.name}.md"
