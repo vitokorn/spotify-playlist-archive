@@ -1,5 +1,4 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
-
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
 > dora jar x ashnikko remix and sooo much moooore
@@ -1737,6 +1736,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2021-09-24 |
 | [vinegar](https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [vinegar](https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9) | 3:16 | 2022-01-22 | 2022-04-09 |
 | [Vintage](https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Vintage](https://open.spotify.com/album/3m5bt0XOKIh1SfbycLiDfk) | 2:35 | 2021-03-17 | 2022-03-11 |
+| [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-12-23 | 2022-01-22 |
 | [Wait for Me](https://open.spotify.com/track/2DWSEs2sT3jvlrZMUtHTUY) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Wait for Me](https://open.spotify.com/album/7LAkAB1VZOBGFBxY9knom4) | 2:46 | 2023-07-29 | 2023-08-26 |
 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 | 2022-07-15 | 2022-10-26 |

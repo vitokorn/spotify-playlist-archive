@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/Melodic%20&%20Euphoric.md) - [plain](/playlists/plain/37i9dQZF1DWTiVLKoHQ1yC) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTiVLKoHQ1yC))
-
 ### [Melodic & Euphoric](https://open.spotify.com/playlist/37i9dQZF1DWTiVLKoHQ1yC)
 
 > Come alive with this progressive & melodic house selection.

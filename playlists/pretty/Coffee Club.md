@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/Coffee%20Club.md) - [plain](/playlists/plain/37i9dQZF1DX79UF7ALECl7) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX79UF7ALECl7))
-
 ### [Coffee Club](https://open.spotify.com/playlist/37i9dQZF1DX79UF7ALECl7)
 
 > Have some chill house with your coffee

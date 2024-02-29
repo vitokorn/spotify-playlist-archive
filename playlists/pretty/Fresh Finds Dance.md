@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](/playlists/plain/37i9dQZF1DX6bBjHfdRnza) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6bBjHfdRnza))
-
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
 > The best new dance & electronic by independent artists and labels. Cover: Val Fleury. Artwork by Rewina Beshue.

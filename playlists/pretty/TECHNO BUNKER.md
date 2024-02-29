@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/TECHNO%20BUNKER.md) - [plain](/playlists/plain/37i9dQZF1DX6J5NfMJS675) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6J5NfMJS675))
-
 ### [TECHNO BUNKER](https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675)
 
 > Welcome to the dark side of the club.

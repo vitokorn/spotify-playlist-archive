@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/vaporwave.md) - [plain](/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU4EQPjP9ZpS))
-
 ### [vaporwave](https://open.spotify.com/playlist/37i9dQZF1DWU4EQPjP9ZpS)
 
 > get lost in the  a e s t h e t i c 

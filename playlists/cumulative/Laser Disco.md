@@ -1,5 +1,4 @@
 [pretty](/playlists/pretty/Laser%20Disco.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX11pUHJdXMnN) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX11pUHJdXMnN))
-
 ### [Laser Disco](https://open.spotify.com/playlist/37i9dQZF1DX11pUHJdXMnN)
 
 > House and disco jams with an 80s-infused retro flavour.

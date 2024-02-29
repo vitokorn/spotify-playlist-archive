@@ -1,5 +1,4 @@
 [pretty](/playlists/pretty/House%20is%20a%20Feeling.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDvpUgU6QYl) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWXDvpUgU6QYl))
-
 ### [House is a Feeling](https://open.spotify.com/playlist/37i9dQZF1DWXDvpUgU6QYl)
 
 > A groovy and soulful house collection. Cover: Calvin Harris, Eliza Rose

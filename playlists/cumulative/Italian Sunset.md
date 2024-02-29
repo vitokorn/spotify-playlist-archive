@@ -1,5 +1,4 @@
 [pretty](/playlists/pretty/Italian%20Sunset.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX572PAi3rtlM))
-
 ### [Italian Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
 > Italian funk, disco and jazz, recent and old. Hand-picked by actual Italians. 🌙

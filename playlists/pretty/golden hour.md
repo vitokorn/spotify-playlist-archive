@@ -1,5 +1,4 @@
 pretty - [cumulative](/playlists/cumulative/golden%20hour.md) - [plain](/playlists/plain/37i9dQZF1DWUE76cNNotSg) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUE76cNNotSg))
-
 ### [golden hour](https://open.spotify.com/playlist/37i9dQZF1DWUE76cNNotSg)
 
 > Warm indie dance vibes, the music you need at golden hour.
