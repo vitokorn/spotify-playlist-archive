@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Logic1000
+> The home for alternative electronic music. Cover: Interplanetary Criminal
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Erational](https://open.spotify.com/track/6g0Ky5fiJAjkCmRq927A9I) | [KRUDO](https://open.spotify.com/artist/0gJUpk76qT1iMFOhm57m4K), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Erational](https://open.spotify.com/album/5PtDQ2aXZ5NKEU2MYAihar) | 5:18 | 2021-01-21 | 2021-05-15 |
 | [Escape](https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF) | 4:23 | 2022-09-23 | 2022-12-16 |
 | [Essentia](https://open.spotify.com/track/4QreGo9Ivksjv4c3Bnk5f3) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Essentia](https://open.spotify.com/album/1ZqUztzABhkd9JkDpih6np) | 3:37 | 2022-11-11 | 2023-05-19 |
-| [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 | 2023-11-10 |  |
+| [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 | 2023-11-10 | 2024-03-29 |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-01-21 | 2022-06-17 |
 | [Euphoria](https://open.spotify.com/track/3VJliN2rScAHJ0LIui0Kvd) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q) | [Euphoria](https://open.spotify.com/album/2VtFljXLqHG22i7OcwSD4e) | 4:06 | 2023-06-09 | 2023-09-15 |
 | [Euphoric Melodies](https://open.spotify.com/track/0KqXpnuuFIwBJ3NzpaIgSO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Euphoric Melodies](https://open.spotify.com/album/6uJni51QAXIgwEHLvUDnbR) | 6:41 | 2021-05-21 | 2021-06-25 |
@@ -642,6 +642,7 @@
 | [If It's True](https://open.spotify.com/track/116liDXqS5DIzlnkBz1sWp) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [If It's True](https://open.spotify.com/album/3C6DtnVk1LKcnrgO4XLhvz) | 4:14 | 2022-07-01 | 2022-08-19 |
 | [If Only](https://open.spotify.com/track/6hwIio6b3Y2D8hgIVrqRFf) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [NAYLOR](https://open.spotify.com/album/5X7AtW3mpRVmfFMVwfzF1L) | 3:32 | 2021-06-19 | 2021-10-01 |
 | [If U Ever](https://open.spotify.com/track/6rFoXa2T7l7elYqXxYCvDz) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/5JMBpaWCyG6IlDLReH6hej) | 4:48 | 2021-05-15 | 2021-08-20 |
+| [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-29 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 |  |
 | [Imagination](https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Imagination](https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo) | 5:49 | 2021-04-02 | 2021-05-21 |
 | [Imagination](https://open.spotify.com/track/6hBHMrdoQP3VmtvCvbhKOX) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Imagination](https://open.spotify.com/album/61HRvYXfolP76RcNBejDV6) | 6:52 | 2021-12-03 | 2022-05-06 |
