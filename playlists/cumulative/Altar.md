@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Lawrence Hart
+> The home for alternative electronic music. Cover: BICEP
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 | 2024-03-15 |  |
 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 | 2024-05-03 |  |
+| [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 | 2024-06-28 |  |
 | [Cicada (feat. Arca)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [Cicada](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-20 | 2021-11-21 |
 | [Cinemax - Edit](https://open.spotify.com/track/682HD7Z4WzSxqyjEJQgtBU) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Cinemax](https://open.spotify.com/album/63fkltU4MUZlcKp4R3SOpi) | 5:51 | 2021-01-21 | 2021-03-05 |
@@ -1432,7 +1433,7 @@
 | [Untitled A2](https://open.spotify.com/track/3iWIyg79uW0g5zQQlW880y) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Ziemia 002](https://open.spotify.com/album/4OqaI9QOc4BACWF4E9kWRC) | 6:25 | 2021-04-10 | 2021-04-16 |
 | [Up a While](https://open.spotify.com/track/2XIVtxGG04GKN9LhZiivVJ) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Blondie Snitch](https://open.spotify.com/artist/358GEnZJAvjgORsYmLc5Ai) | [Cascade](https://open.spotify.com/album/4Z7WLmUoEdQNUspYZHgpyo) | 3:35 | 2021-04-16 | 2021-06-04 |
 | [Upstairs Flat](https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 6:07 | 2022-01-07 | 2022-05-06 |
-| [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 | 2024-01-26 |  |
+| [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 | 2024-01-26 | 2024-06-28 |
 | [Valley](https://open.spotify.com/track/5QjC3LptkoGRprhBrYcG3f) | [Ocean Stirs](https://open.spotify.com/artist/6CkDSQruiAG8HWvAQQn6a1) | [Through Twist And Seam EP](https://open.spotify.com/album/4b36clgGAinxFnL1kSWtiR) | 5:15 | 2021-04-10 | 2021-04-16 |
 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 | 2023-05-19 | 2023-10-13 |
 | [Venus](https://open.spotify.com/track/15lMjrVBh1CJdwXw7AgPIT) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [063](https://open.spotify.com/album/6ipPsxdz9GqLy2Ehy6b49i) | 6:59 | 2023-04-14 | 2023-07-14 |
