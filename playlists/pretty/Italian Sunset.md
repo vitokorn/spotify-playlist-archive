@@ -5,7 +5,7 @@ pretty - [cumulative](/playlists/cumulative/Italian%20Sunset.md) - [plain](/play
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lunedì cinema](https://open.spotify.com/track/3Kcyw6bUYp2eNzzdCdDZ8n) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [12000 lune](https://open.spotify.com/album/3S9Nwspq15hObe5Iegko5s) | 1:25 |
+| 1 | [Lunedì cinema](https://open.spotify.com/track/3Kcyw6bUYp2eNzzdCdDZ8n) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl), [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [12000 lune](https://open.spotify.com/album/3S9Nwspq15hObe5Iegko5s) | 1:25 |
 | 2 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 3 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 |
 | 4 | [Notte Magica](https://open.spotify.com/track/4KQ8Qi0jg6fFYPEG1Syunf) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Notte Magica](https://open.spotify.com/album/6dOnZOQRQtg1JPC3C57NaB) | 3:52 |
