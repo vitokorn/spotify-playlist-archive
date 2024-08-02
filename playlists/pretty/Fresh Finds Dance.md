@@ -6,9 +6,9 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2 Chant](https://open.spotify.com/track/6Q2Uo9k489aSA83ZFrhSlZ) | [davey](https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D) | [2 Chant](https://open.spotify.com/album/1b9SN3tFXHYmNVw5czsegw) | 4:52 |
-| 2 | [Smile](https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW) | [Atelier](https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu) | [Smile](https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs) | 2:47 |
+| 2 | [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 |
 | 3 | [LET THE MUSIC PLAY](https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg) | [AUGIS](https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [LET THE MUSIC PLAY](https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp) | 2:57 |
-| 4 | [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 |
+| 4 | [Smile](https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW) | [Atelier](https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu) | [Smile](https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs) | 2:47 |
 | 5 | [Snog](https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Snog](https://open.spotify.com/album/0yszMLZhCjPj39V54464kX) | 3:27 |
 | 6 | [VHS (feat. Saïna)](https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG) | [Luis V](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [ALWAYS](https://open.spotify.com/album/6kUOenj0BpAgvKP3Vk0WPi) | 2:44 |
 | 7 | [I Wanna Be](https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [I Wanna Be](https://open.spotify.com/album/5I7LyERZamTJGWF2HDycLU) | 3:28 |
