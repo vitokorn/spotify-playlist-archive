@@ -5,7 +5,7 @@ pretty - [cumulative](/playlists/cumulative/Release%20Radar.md) - [plain](/playl
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Happy People?](https://open.spotify.com/track/6iFwT5dueWSGhvxEozBIib) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Happy People?](https://open.spotify.com/album/0WJtHx2O5M1PBJM6o0X26G) | 3:37 |
+| 1 | [Happy People](https://open.spotify.com/track/6iFwT5dueWSGhvxEozBIib) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Happy People](https://open.spotify.com/album/0WJtHx2O5M1PBJM6o0X26G) | 3:37 |
 | 2 | [sweet moon - jung remix](https://open.spotify.com/track/3hdHT5YzgyZE9bm4sF9Nl6) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Choklate](https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3) | [sweet moon](https://open.spotify.com/album/66nUzDDbuyia0KP2afHbAr) | 4:15 |
 | 3 | [5 Notes From Paradise](https://open.spotify.com/track/3NSiLcsfh1oqbLXYRZqp1x) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [5 Notes From Paradise](https://open.spotify.com/album/2XBLkyTxtVoGBHz12ZNUmn) | 3:32 |
 | 4 | [КУЗЬМА](https://open.spotify.com/track/0EG2c5DAKJfN16WRBtVC5M) | [Скрябін](https://open.spotify.com/artist/5RqIkHQnXRZlm1ozfSS1IO), [Yurcash](https://open.spotify.com/artist/4rIMpiyveOQrytWWvsqUAA) | [КУЗЬМА](https://open.spotify.com/album/5VxaypmdBFi7eRTBgRmjAM) | 4:04 |
