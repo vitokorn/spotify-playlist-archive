@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](
 |---|---|---|---|---|
 | 1 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
 | 2 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
-| 3 | [Dance With You (All Night)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You (All Night)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 4:28 |
+| 3 | [Dance With You (All Night)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You (All Night)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 |
 | 4 | [Rewind](https://open.spotify.com/track/2qkVQ9BAoeSt762OxF4HrI) | [Bad Friends](https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8) | [Rewind](https://open.spotify.com/album/3PFdCPog0MsyejiQ2KXgjK) | 2:34 |
 | 5 | [Firmament](https://open.spotify.com/track/5xO5xLmj9LpWABgmIX4zF2) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [Firmament / Back To Basics](https://open.spotify.com/album/3eGUWFX6hTkJJN9KYwUkz9) | 5:30 |
 | 6 | [Switch](https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Switch](https://open.spotify.com/album/7gBiw8viPA2iL0cxcm2iHv) | 4:07 |
