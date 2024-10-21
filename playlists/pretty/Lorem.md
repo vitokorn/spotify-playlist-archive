@@ -5,7 +5,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 |
+| 1 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 2 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
 | 3 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 4 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 | 24 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/63NhLtWQ6UxCRIu1k8uSwQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [I think about it all the time featuring bon iver](https://open.spotify.com/album/3fLeZG6kziJwK5J0brDjuc) | 3:20 |
 | 25 | [Terrapin](https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:00 |
 | 26 | [40%](https://open.spotify.com/track/7egc7lTwXiwP284oxZTIN4) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [40%](https://open.spotify.com/album/59uhQa0MLLqvbOMdXchgYU) | 3:47 |
-| 27 | [B.O.A.T.](https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO - Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 2:56 |
+| 27 | [B.O.A.T.](https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO (Magic City Edition)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 2:56 |
 | 28 | [Somebody Else - Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else - Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 |
 | 29 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 |
 | 30 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 |
