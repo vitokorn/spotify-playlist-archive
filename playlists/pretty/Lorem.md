@@ -5,12 +5,12 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
-| 2 | [Image - Grimes Special](https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Image (Grimes Special)](https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji) | 3:35 |
+| 1 | [Image - Grimes Special](https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Image (Grimes Special)](https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji) | 3:35 |
+| 2 | [I Want You Yesterday](https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I Want You Yesterday](https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq) | 2:47 |
 | 3 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 4 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 5 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
-| 6 | [I Want You Yesterday](https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I Want You Yesterday](https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq) | 2:47 |
+| 5 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
+| 6 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
 | 7 | [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:07 |
 | 8 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 9 | [hello !](https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [hello !](https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ) | 2:50 |
