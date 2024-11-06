@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Disclosure
+> The home for alternative electronic music. Cover: Four Tet at Drumsheds
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
