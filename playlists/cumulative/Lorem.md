@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> introducing sofie royer
+> sam austins its your time
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Cherry Flavoured](https://open.spotify.com/track/5ZawGS5kFVVxEZrN7FshIk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Cherry Flavoured](https://open.spotify.com/album/0ZupZSrJqTChpZ5PMoBB0u) | 3:28 | 2021-03-17 | 2021-12-02 |
 | [Cherub](https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Cherub](https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg) | 1:50 | 2022-09-17 | 2022-12-10 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-22 |
+| [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-11-22 |  |
 | [Chip Away](https://open.spotify.com/track/1rz1Hyail9C6tIIIhvY8Tq) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Chip Away](https://open.spotify.com/album/4GUMqyuv73hdiPJTQnxGko) | 2:10 | 2024-06-08 | 2024-06-29 |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 | 2024-06-10 |
 | [Cinema](https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Cinema](https://open.spotify.com/album/02pJQBcBBHUlk55lrjikRm) | 3:42 | 2022-07-15 | 2022-09-02 |
@@ -1225,7 +1226,7 @@
 | [Love Music](https://open.spotify.com/track/4xgIZG0FJG9Z81ku8l9P3I) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Love Music](https://open.spotify.com/album/4sfHMXmUi40x1bZvoMymzp) | 2:57 | 2021-06-30 | 2021-12-02 |
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-06-01 | 2024-06-20 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-25 | 2024-04-20 |
-| [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 |  |
+| [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 | 2024-11-22 |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-21 | 2023-04-22 |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2021-03-17 | 2021-05-19 |
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2024-10-26 |  |
@@ -1249,7 +1250,7 @@
 | [Made your bed](https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Made your bed](https://open.spotify.com/album/7wdelmJ9L3KHechBmBl0ey) | 2:54 | 2024-04-03 | 2024-06-01 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-04 | 2024-02-10 |
 | [magic](https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [magic](https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw) | 4:13 | 2024-04-20 | 2024-07-27 |
-| [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 | 2024-10-12 |  |
+| [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 | 2024-10-12 | 2024-11-22 |
 | [Magic I Want U](https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 4:58 | 2024-09-14 |  |
 | [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-27 | 2024-09-05 |
 | [make ur way [Feat. 80purppp]](https://open.spotify.com/track/7hHG2sRkxVCul6bYULETL8) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [make ur way](https://open.spotify.com/album/5Nkw0bkUzHQOWC4qNG5ZW9) | 3:21 | 2022-07-15 | 2022-08-05 |
@@ -1468,6 +1469,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-14 | 2024-01-13 |
 | [One Trick Pony](https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [One Trick Pony](https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk) | 3:00 | 2024-08-31 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2022-05-31 | 2022-07-02 |
+| [Ooh Yeah](https://open.spotify.com/track/3TwfAgMEfaerj8XmrMZZRb) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night](https://open.spotify.com/album/5UUl2XKczVeGQE15nVPY3X) | 5:18 | 2024-11-22 |  |
 | [OOZ](https://open.spotify.com/track/02SS3PqtrKPZpWnTtyTFaN) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [OOZ](https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo) | 4:29 | 2021-03-17 | 2021-05-19 |
 | [OPEN A WINDOW (feat. Tyler, The Creator)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW (feat. Tyler, The Creator)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-10 | 2022-04-20 |
 | [OPEN LETTER (feat. Teezo Touchdown)](https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OPEN LETTER (feat. Teezo Touchdown)](https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW) | 4:06 | 2022-10-14 | 2022-11-04 |
