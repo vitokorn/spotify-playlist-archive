@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> home of fragile opps. cover: sam austins
+> sam austins its your time
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Believe](https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Believe](https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ) | 3:44 | 2024-05-11 | 2024-08-24 |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-21 |
 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-10-21 | 2024-02-10 |
+| [Belmont](https://open.spotify.com/track/4pTACNl2Ft38sw4ft4IAvm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Chasing Moving Trains](https://open.spotify.com/album/50eGAFAREgtdDVmSl7gD1y) | 4:32 | 2024-11-27 |  |
 | [Bend](https://open.spotify.com/track/0IxMbYZoqIFC087bOrST5y) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW), [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw) | [Bend](https://open.spotify.com/album/3efg8IUyGdZgMzyZdFHQWr) | 3:30 | 2024-05-18 | 2024-07-27 |
 | [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-10 | 2023-08-26 |
 | [Best Friend](https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:44 | 2021-05-15 | 2021-07-31 |
@@ -2238,6 +2239,7 @@
 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 | 2022-04-15 | 2022-06-09 |
 | [Who Is Afraid Of Blue](https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:35 | 2023-06-08 | 2023-08-12 |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2022-01-15 | 2022-03-18 |
+| [Why can’t you see](https://open.spotify.com/track/3yukgMnqGxj1FGak12DHVu) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Why can’t you see](https://open.spotify.com/album/2RReJH34G2ccyySp3DIYr3) | 2:29 | 2024-11-27 |  |
 | [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-06-16 | 2022-08-19 |
 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 | 2023-11-18 | 2024-01-13 |
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-04-20 | 2024-06-22 |
