@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> sam austins its your time
+> gigi perez is only getting started 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-07 | 2022-08-18 |
 | [Apocalypse Love Song](https://open.spotify.com/track/5sisWMCOONgnbPJ5Q4MZq9) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Apocalypse Love Song](https://open.spotify.com/album/4xb97mzuYxZctEoVl7bhL3) | 2:35 | 2022-07-08 | 2022-09-08 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-02 | 2024-09-07 |
-| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-26 |  |
+| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-26 | 2024-11-30 |
 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 | 2024-11-16 |  |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-22 | 2022-10-12 |
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory (Marfil)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2022-11-17 | 2023-09-21 |
@@ -209,6 +209,7 @@
 | [balenciaga size 42](https://open.spotify.com/track/4sNZrt2CzEzWT931xRE2Iu) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [the world is big, get over it](https://open.spotify.com/album/0OmGufWKh3Mvwtn33Z0j9P) | 3:08 | 2023-08-12 | 2023-08-26 |
 | [bandaid](https://open.spotify.com/track/57F44LdefJqI3Qk6oqZULY) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [bandaid](https://open.spotify.com/album/26EyUH5T0jQLby2Ln1qXkX) | 3:59 | 2022-03-25 | 2022-04-15 |
 | [Bandaid](https://open.spotify.com/track/0C6LlhYKEYyQHjhDfyM2Oh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Bandaid](https://open.spotify.com/album/6FOv6s2xRkMWAXwNpL2L36) | 2:54 | 2023-12-09 | 2024-02-22 |
+| [Bang](https://open.spotify.com/track/3W116J5FwN5heXYDUZOhZT) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Ahora](https://open.spotify.com/album/1AtuYOzUmu9LxVyXT867Ym) | 5:10 | 2024-11-30 |  |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2022-07-01 | 2022-10-12 |
 | [bargaining (with Verzache)](https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [good grief](https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj) | 2:31 | 2022-05-12 | 2022-06-09 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-29 | 2021-07-31 |
