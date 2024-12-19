@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Ray Bull!
+> MOIO <3
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [BKGW](https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [BKGW](https://open.spotify.com/album/71PQIAJKScktcU1JtaLfD8) | 2:49 | 2021-03-17 | 2021-04-02 |
 | [black & mild](https://open.spotify.com/track/2Act8nsW8aQI46PsLNgJJj) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [black & mild](https://open.spotify.com/album/0y5DaPOSdKruHy7iYUud12) | 2:16 | 2021-10-26 | 2022-01-08 |
 | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/track/5LtWRMwawTdOiARIY3VBP4) | [toastool](https://open.spotify.com/artist/5nABWe1FXsU9JYESQWznSm) | [Black Out Days (Slowed & Reverb)](https://open.spotify.com/album/3s2f5GkgGRPzANMZXriRNz) | 4:21 | 2021-08-04 | 2021-10-06 |
+| [Black Train](https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Black Train](https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6) | 3:47 | 2024-12-19 |  |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-22 | 2023-07-29 |
 | [Blake 2](https://open.spotify.com/track/5EZI0rPfDLltxUeimJZhu6) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Blake 2](https://open.spotify.com/album/0KiiNd7Y4pFAnTnva7NrnK) | 2:57 | 2022-11-17 | 2022-12-15 |
 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 | 2023-02-21 | 2023-04-15 |
@@ -2083,7 +2084,7 @@
 | [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-03-02 | 2024-05-01 |
 | [THREE HEADS*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-10-09 | 2022-10-29 |
 | [THREE HEADS*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-20 | 2022-10-09 |
-| [Throes](https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [BLUE SUPER LOVE](https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1) | 2:24 | 2024-11-23 |  |
+| [Throes](https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [BLUE SUPER LOVE](https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1) | 2:24 | 2024-11-23 | 2024-12-19 |
 | [Throwaway (with Clairo)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2023-01-27 | 2023-02-21 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-08-04 | 2021-11-13 |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-01 | 2022-09-02 |
