@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/metropolis.md) - [plain](/playlists/
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
-| 2 | [Follow](https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Follow](https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8) | 2:50 |
+| 2 | [Follow (I will never let you go)](https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Follow (I will never let you go)](https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8) | 2:50 |
 | 3 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 |
 | 4 | [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 |
 | 5 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
