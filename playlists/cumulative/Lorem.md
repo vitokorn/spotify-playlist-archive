@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Ally Evenson
+> japanese breakfast 🕯️🎀✨🍇
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2021-11-13 |
 | [Always](https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Always](https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H) | 2:52 | 2022-10-21 | 2022-12-15 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2022-04-21 |
+| [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-11 |  |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-21 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-04 | 2023-03-22 |
 | [american spirit](https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [american spirit](https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA) | 3:21 | 2023-08-12 | 2023-10-28 |
@@ -1392,6 +1393,7 @@
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-20 | 2024-09-07 |
 | [Name](https://open.spotify.com/track/5J4TJqdQiivHZBP4ILFViZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Oatmilk](https://open.spotify.com/album/3A4bdCyQQmHncye22gg1lX) | 1:49 | 2021-03-17 | 2021-06-04 |
 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 | 2021-03-17 | 2024-01-13 |
+| [Nausicaä (Love Will Be Revealed)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 | 2025-01-11 |  |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-16 | 2021-08-13 |
 | [Ne Me Quitte Pas (Don't Leave Me)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2024-01-04 | 2024-01-13 |
 | [Needy](https://open.spotify.com/track/7EHZMOUAhYwnAoAO8cIKOw) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [Needy](https://open.spotify.com/album/0DNUQA7dBG8fzvzZd5Tx3f) | 2:38 | 2022-01-22 | 2022-02-25 |
@@ -1982,6 +1984,7 @@
 | [T Love - Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift (Deluxe)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 | 2022-11-21 | 2022-12-23 |
 | [t r a n s p a r e n t s o u l feat. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-05-16 | 2022-01-08 |
 | [t r a n s p a r e n t s o u l feat.Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat.Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-04-28 | 2021-05-16 |
+| [T&A](https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw) | 3:45 | 2025-01-11 |  |
 | [Taco Truck x VB](https://open.spotify.com/track/79wgotDiVZml9PiTtNtYBA) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:53 | 2023-03-27 | 2023-04-15 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-10 | 2024-07-12 |
 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 | 2021-05-27 | 2021-08-13 |
