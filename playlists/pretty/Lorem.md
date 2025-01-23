@@ -1,7 +1,7 @@
 pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> The <a href="#https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245#">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap 
+> The <a href="https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
