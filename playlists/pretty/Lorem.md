@@ -1,7 +1,7 @@
 pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Djo is back
+> <a href="https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true">Lorem, just another word for...</a> Cover: Djo
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 | 28 | [take me by the hand](https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/537kzzis1FK64BYUQanxci) | 2:51 |
 | 29 | [Omophagia](https://open.spotify.com/track/1Mr3Q6p42q7REF5DAuhtj6) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Omophagia](https://open.spotify.com/album/1G0RUYmzsuiqhkyHAixsGx) | 3:09 |
 | 30 | [sorrynotsorry](https://open.spotify.com/track/1TI8NKAfjMvvx6P5M0u1Iy) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [sorrynotsorry](https://open.spotify.com/album/3Py8BTTA0sId5dkgSRNYOH) | 1:54 |
-| 31 | [Father Figure - Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
+| 31 | [Father Figure - Remastered - featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 32 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
 | 33 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
 | 34 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
