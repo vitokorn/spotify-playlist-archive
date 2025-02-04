@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Oklou
+> <a href="https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Chappell Roan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-05-02 | 2024-06-26 |
 | [Bad Habit](https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 2:47 | 2023-09-30 | 2024-01-13 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-11-17 |
-| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2024-11-26 |  |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2024-11-26 | 2025-02-04 |
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2022-09-28 | 2022-10-26 |
 | [Bad Texter](https://open.spotify.com/track/7rymj8PopRWOI2kBdjPG9q) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Bad Texter](https://open.spotify.com/album/5OwoxFVxLosVA4O8uqAAfb) | 3:13 | 2021-03-17 | 2021-06-04 |
 | [Badget](https://open.spotify.com/track/0CdoYAWEtrqC71aT0zZ5rG) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Badget](https://open.spotify.com/album/2m5qQrPabhQlYZjYkIRsgO) | 3:26 | 2022-04-08 | 2022-04-23 |
@@ -600,7 +600,7 @@
 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 | 2024-06-01 | 2025-01-18 |
 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 | 2021-03-17 | 2021-07-31 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-18 | 2023-04-08 |
-| [Dreams Tonite](https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Dreams Tonite](https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH) | 3:08 | 2024-12-20 |  |
+| [Dreams Tonite](https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Dreams Tonite](https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH) | 3:08 | 2024-12-20 | 2025-02-04 |
 | [Dressed For A Funeral](https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj) | [Dressed For A Funeral](https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r) | 2:24 | 2023-05-13 | 2023-06-24 |
 | [Drew Barrymore](https://open.spotify.com/track/4Ni8k94lpdC6gzjXtUdzVw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Drew Barrymore](https://open.spotify.com/album/41HZOC3jBstsK2ujTn7Kgm) | 3:56 | 2021-09-24 | 2021-12-02 |
 | [Drifting - (Spotify OUTSIDE Version) - Live from West Hollywood, CA](https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:16 | 2024-07-26 | 2024-09-07 |
@@ -833,7 +833,7 @@
 | [Good God](https://open.spotify.com/track/7m0v1FnyMd3CzZi5RYzMPa) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Pest](https://open.spotify.com/album/4ANln4Sj8b5Anhb7RKnGXw) | 1:59 | 2024-08-22 | 2024-11-23 |
 | [Good Grief](https://open.spotify.com/track/7rUytGRv5slfSodhCQQaKf) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Good Grief](https://open.spotify.com/album/10pyN4NN0zIgFs18vYupTW) | 3:47 | 2021-07-16 | 2021-08-13 |
 | [Good Looking (Stripped)](https://open.spotify.com/track/0ufGu1NoCEIpGkBcF1dT6g) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:37 | 2022-08-12 | 2023-04-15 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-06 | 2024-12-04 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-06 |  |
 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 | 2024-01-27 | 2024-02-23 |
 | [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 | 2023-03-16 | 2023-04-08 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-21 | 2024-01-13 |
@@ -1534,6 +1534,7 @@
 | [Overdrive](https://open.spotify.com/track/5zexuTIZGttwZbj5PM1ztp) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Overdrive](https://open.spotify.com/album/45JxkluYypAMbmM2nH94C6) | 3:16 | 2021-03-17 | 2021-05-15 |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-18 | 2021-08-13 |
 | [Overseas/BACK 2 U](https://open.spotify.com/track/17AR21VFQPJYTRC2eNXXfS) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Overseas/BACK 2 U](https://open.spotify.com/album/1SIO06U8gTdx70MgytjUuK) | 4:39 | 2023-01-20 | 2023-04-25 |
+| [oye Rodri :(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 | 2025-02-04 |  |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-10-26 | 2022-02-12 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-07-05 | 2023-07-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-04 | 2021-11-13 |
