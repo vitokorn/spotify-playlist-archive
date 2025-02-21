@@ -1,7 +1,7 @@
 pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20Dance.md) - [plain](/playlists/plain/37i9dQZF1DX6bBjHfdRnza) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6bBjHfdRnza))
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels. Featuring Edd. Artwork by Rewina Beshue
+> The best new dance music by independent artists and labels, featuring Tiffy Vera. Artwork by Rewina Beshue.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
