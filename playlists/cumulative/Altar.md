@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Dusky
+> The home for alternative electronic music. Cover: Franky Wah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,7 +750,7 @@
 | [In Cadence](https://open.spotify.com/track/2PJEppZXXaTmwLALhfcUUA) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [In Cadence EP](https://open.spotify.com/album/41IdtO0ijNb8HTLtiKWr6E) | 5:13 | 2021-01-21 | 2021-03-26 |
 | [In Control - Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control (Innellea Remix)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 | 2022-09-16 | 2022-11-18 |
 | [In My Arms - Edit](https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In My Arms](https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb) | 3:45 | 2021-08-18 | 2021-10-15 |
-| [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-13 |  |
+| [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-13 | 2025-02-28 |
 | [In My Head - Rebecca & Fiona Remix](https://open.spotify.com/track/55GEZnn4x1v4nNKls9iVkD) | [First Hate](https://open.spotify.com/artist/5HOnVNfQ1FvMzZN2NEuNhP), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [In My Head (Rebecca & Fiona Remix)](https://open.spotify.com/album/6RCqsImCAeXoMgSzjob8Rl) | 4:31 | 2022-12-16 | 2023-03-31 |
 | [In The Night](https://open.spotify.com/track/3Xz2ZcQlQRA7rqbj7tYsL3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sad Girl](https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S) | 3:44 | 2024-09-27 |  |
 | [IN YOUR BLOOD](https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [IN YOUR BLOOD](https://open.spotify.com/album/3btxaWRqZYDZxB6QtSBDnN) | 3:44 | 2023-03-08 | 2023-03-09 |
@@ -1493,6 +1493,7 @@
 | [The Way (Saviour)](https://open.spotify.com/track/0ZjHmToIhQG8k57CpD91Do) | [Teebee](https://open.spotify.com/artist/7Cl1dU4G44kfQAg0f69J9v) | [The Way (Saviour)](https://open.spotify.com/album/0B2rxnCyHtfjClpmtsfuUs) | 5:22 | 2024-01-13 | 2024-04-26 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2022-11-04 | 2023-06-16 |
 | [The World You See](https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [The World You See](https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I) | 3:37 | 2021-02-26 | 2021-05-21 |
+| [there 4 u - Radio Edit](https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f) | [1-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [there 4 u](https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4) | 3:04 | 2025-02-28 |  |
 | [These Days](https://open.spotify.com/track/5wl0mc25Mn6YcFsXv1GR3e) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/54VcrpotCamxH0BcC2mlm3) | 3:34 | 2023-04-21 | 2023-10-13 |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2022-08-11 | 2022-08-19 |
 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-23 | 2021-09-03 |
