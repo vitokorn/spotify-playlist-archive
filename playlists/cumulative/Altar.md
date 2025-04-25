@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Prospa 
+> The home for alternative electronic music. Cover: Kelly Lee Owens
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-01-21 | 2021-02-05 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-03 | 2022-10-14 |
 | [malo okoma - Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-04 | 2022-05-06 |
+| [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 | 2025-04-25 |  |
 | [Mandé](https://open.spotify.com/track/3ydhof4E7ANkc33BdTIkLZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Dopa La Vita / Mandé](https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu) | 6:03 | 2022-01-14 | 2022-05-20 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-13 | 2022-11-25 |
 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 | 2023-04-21 | 2023-09-15 |
@@ -1468,7 +1469,7 @@
 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 | 2021-04-16 | 2021-07-09 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-15 | 2021-07-30 |
 | [Talk About It](https://open.spotify.com/track/2eDnBPn2A8qIDexujBC6Fy) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/1cZKvt4GH4hyLKjm6zIgy3) | 3:24 | 2021-06-04 | 2021-07-02 |
-| [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-01 |  |
+| [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-01 | 2025-04-25 |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-22 | 2024-09-27 |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 | 2023-01-13 |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-08 | 2024-06-21 |
