@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/metropolis.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8CopunbDxgW) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8CopunbDxgW))
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> New tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
+> new tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

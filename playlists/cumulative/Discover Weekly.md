@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Discover%20Weekly.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXcERLiUqU2pJX) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcERLiUqU2pJX))
 ### [Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcERLiUqU2pJX)
 
-> Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
