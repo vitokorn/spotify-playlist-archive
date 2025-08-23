@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Altar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa71eg5j9dKZ))
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music. Cover: Cameo Blush
+> The home for alternative electronic music. Cover: Sammy Virji, Chris Lake
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Baby](https://open.spotify.com/track/2aG0MR34r8rPq914MH8KQd) | [Tyvion Valentine](https://open.spotify.com/artist/101muq6NLdlyX7E3IVUDRv) | [Baby](https://open.spotify.com/album/5XCqAFMVCn9beXLjYl6a4c) | 6:17 | 2023-05-26 | 2023-08-19 |
 | [Baby's First Rave](https://open.spotify.com/track/4D6ZoGX618RzoM8WMMQkad) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Extravaganzza EP](https://open.spotify.com/album/4kt0Diqfykra7NFGwP8qCK) | 4:59 | 2021-03-08 | 2021-03-09 |
 | [Baby, We're Ascending - Edit](https://open.spotify.com/track/381kpaTALpjSXdzfUoFU20) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 4:12 | 2022-05-06 | 2022-09-30 |
+| [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 | 2025-08-23 |  |
 | [Back Again](https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Space & Time](https://open.spotify.com/album/3ZHNZwse8WUFP35u72NnpH) | 2:36 | 2023-05-19 | 2023-10-13 |
 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 | 2025-05-16 | 2025-08-22 |
 | [BACK ON](https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BACK ON](https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG) | 3:21 | 2024-07-05 | 2024-12-06 |
@@ -296,7 +297,7 @@
 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 | 2024-05-03 | 2025-01-10 |
 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 | 2024-06-28 | 2024-11-29 |
 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 | 2025-01-17 | 2025-06-20 |
-| [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-18 |  |
+| [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-18 | 2025-08-23 |
 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 | 2025-06-06 |  |
 | [Cicada (feat. Arca)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [Cicada](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-20 | 2021-11-21 |
