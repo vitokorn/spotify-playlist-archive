@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://loremandfriends.substack.com/p/at-least-we-have-music">Check out our latest newsletter!</a> Cover: Sophia Stel
+> <a href="https://loremandfriends.substack.com/p/at-least-we-have-music">Check out our latest newsletter!</a> Cover: mark william lewis
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
