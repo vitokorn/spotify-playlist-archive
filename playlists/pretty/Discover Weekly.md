@@ -5,7 +5,7 @@ pretty - [cumulative](/playlists/cumulative/Discover%20Weekly.md) - [plain](/pla
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 |
+| 1 | [<MISSING>](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [<MISSING>](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 00:00 |
 | 2 | [My Lovin' - Edit](https://open.spotify.com/track/152qZ7Bg51Ps1uJEL5gf7L) | [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH), [Ritmo Fatale](https://open.spotify.com/artist/7iVxEZeJW31ZCn2TSafJX7) | [My Lovin'](https://open.spotify.com/album/4df52rZ3nc6ukfWZ5NSMKP) | 3:48 |
 | 3 | [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 |
 | 4 | [The One](https://open.spotify.com/track/0KIhLAkHfL9fvgn0yy1qsU) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [The One](https://open.spotify.com/album/2oI2fH2E86SGmQHkSy223h) | 3:44 |
