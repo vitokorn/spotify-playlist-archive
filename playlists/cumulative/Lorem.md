@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: Charli xcx & John Cale
+> <a href="https://loremandfriends.substack.com/p/smerz-daniel-caesar-and-the-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Charli xcx & John Cale
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
