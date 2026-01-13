@@ -5,7 +5,7 @@ pretty - [cumulative](/playlists/cumulative/Discover%20Weekly.md) - [plain](/pla
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [drifting - kryptogram remix](https://open.spotify.com/track/0fiYgCHwsq1qx0lMlct6ch) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [drifting (kryptogram remix)](https://open.spotify.com/album/2o5jJuAT6fT8nHITCRfNJH) | 4:37 |
+| 1 | [drifting - remix](https://open.spotify.com/track/0fiYgCHwsq1qx0lMlct6ch) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [drifting (remix)](https://open.spotify.com/album/2o5jJuAT6fT8nHITCRfNJH) | 4:37 |
 | 2 | [Colours](https://open.spotify.com/track/2gmP5sbrgoCH5Lu8TJeul0) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I Created Disco](https://open.spotify.com/album/76FpZrTEmDPHQAoNjkcHJr) | 4:02 |
 | 3 | [Sunshine Is Coming](https://open.spotify.com/track/4vW0tD7iei8EGVq98BjZ2T) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Sunshine Is Coming](https://open.spotify.com/album/2ftCxHAs5kEFCzgkLUMpFV) | 4:06 |
 | 4 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 |
