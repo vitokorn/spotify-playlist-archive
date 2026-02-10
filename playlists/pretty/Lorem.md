@@ -1,7 +1,7 @@
 pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true">read our Substack here! </a>  Cover: Quadeca ☆
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music! </a>  Cover: Quadeca ☆ 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
