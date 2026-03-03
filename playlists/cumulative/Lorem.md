@@ -1,7 +1,7 @@
 [pretty](/playlists/pretty/Lorem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) ([githistory](https://github.githistory.xyz/vitokorn/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah))
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music :) </a>   Cover: Mitski
+> <a href="https://loremandfriends.substack.com/p/everything-comes-back-around-and">read our substack!  </a>   Cover: Mitski
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
