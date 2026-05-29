@@ -11,17 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: recursive
-          # Also fetch the second-to-last commit so the script can determine,
-          # via git commands, which files changed in the most recent commit
           fetch-depth: 2
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.12"
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -32,5 +31,5 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          BUILD_NUMBER: ${{github.run_number}}
+          BUILD_NUMBER: ${{ github.run_number }}
         run: python script.py --push
